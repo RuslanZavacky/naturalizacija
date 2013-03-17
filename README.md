@@ -5,13 +5,19 @@ Latvijas Himna
 ---------------------
 
 Dievs, svētī Latviju,
+
 Mūs dārgo tēviju,
+
 Svētī jel Latviju,
+
 Ak, svētī jel to!
 
 Kur latvju meitas zied,
+
 Kur latvju dēli dzied,
+
 Laid mums tur laimē diet,
+
 Mūs, Latvijā!
 
 -----
@@ -79,12 +85,16 @@ Latvijas vēsture līdz 20.gadsimtam
 
 #### 1. Kādas sekas bija krustnešu iebrukumam Latvijas teritorijā 13.gadsimtā?
 > Krusta kara laikā izveidojās Livonija
+
 > notika Latvijas teritorijā dzīvojošo tautu saliedēšana
+
 > tika ieviesta kristietība
+
 > tika veicināta tirdzniecība ar Eiropas valstīm.
 
 #### 2. Kāda bija Livonijas laikmeta ietekme Latvijas vēsturē?
 > Sākās atsevišķo Latvijas teritorijā dzīvojošo tautību konsolidācija vienotā nācijā.
+
 > Tuvināšanas posms Eiropas saimniecībai un kultūrai.
 
 #### 3. Kuru valstu pakļautībā 16. – 19. gadsimtā bija vismaz daļa Latvijas teritorijas?
@@ -110,7 +120,9 @@ Jaunāko laiku Latvijas vēsture
 
 #### 2. Kā Pirmais pasaules karš ietekmēja situāciju Latvijas teritorijā?
 > Samazinājās iedzīvotāju skaits.
+
 > Rīgas rūpniecības uzņēmumi tika evakuēti.
+
 > Kurzeme tika okupēta un Кurzemes iedzīvotāji devās bēgļu gaitās.
 
 #### 3. Kāpēc Pirmā pasaules kara laikā daudzi Latvijas iedzīvotāji stājās latviešu strēlnieku pulkos?
@@ -118,8 +130,11 @@ Jaunāko laiku Latvijas vēsture
 
 #### 4. (*) Kuras bija ievērojamākās latviešu strēlnieku kaujas Pirmā pasaules kara laikā?
 > 1915.gada rudenī - Rīgas aizstāvēšanas kauja (Rīgas pievārtē).
+
 > 1916.gadā Jūlija kauja.
+
 > 1916.gadā Nāves salas kauja (pie Ikškiles).
+
 > 1917.gadā Ziemassvētku kaujas (Rīgas aizstāvēšana).
 
 #### 5. (*) Kad tika pasludināta neatkarīgā Latvijas valsts?
@@ -202,8 +217,11 @@ Jaunāko laiku Latvijas vēsture
 
 #### 31. Kādi bija nacionālkomunistu darbības mērķi Latvijā 20.gs. 50.gadu beigās?
 > Industrializācijas samazināšana.
+
 > Imigrācijas samazināšana.
+
 > Proporcionālā saimniecības attīstīšana.
+
 > Latviešu valodas lietošanas paplašināšana.
 
 #### 32. Kurai sabiedriski politiskajai organizācijai bija izšķirošā loma Latvijas valsts neatkarības atjaunošanā?
