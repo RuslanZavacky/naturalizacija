@@ -4,14 +4,14 @@ Latvijas naturalizācijas prasības pretendentiem.
 Latvijas Himna
 ---------------------
 
-Dievs, svētī Latviju,
-Mūs dārgo tēviju,
-Svētī jel Latviju,
-Ak, svētī jel to!
+Dievs, svētī Latviju,<br>
+Mūs dārgo tēviju,<br>
+Svētī jel Latviju,<br>
+Ak, svētī jel to!<br>
 
-Kur latvju meitas zied,
-Kur latvju dēli dzied,
-Laid mums tur laimē diet,
+Kur latvju meitas zied,<br>
+Kur latvju dēli dzied,<br>
+Laid mums tur laimē diet,<br>
 Mūs, Latvijā!
 
 -----
