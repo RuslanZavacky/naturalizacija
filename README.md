@@ -410,7 +410,7 @@ Mutvārdu pārbaudes jautājumi
 > Ģerbonis ir atpazīstamības zīme.
 > Pirmo valsts ģerboni apstiprināja 1918. gada decembrī pēc tēlnieka Burkarda Dzeņa meta. Ģerbonī bija redzama uzlecoša saule, trīs zvaigznes, kas simbolizēja trīs vēsturiskos novadus – Kurzemi, Vidzemi un Latgali, un burts L (Latvija).
 > 1921. gadā Satversmes sapulce apstiprināja jaunu ģerboni. Tā autors ir grafiķis Rihards Zariņš.
-> ![Ģerbonis](http://i.uzdevumi.lv/Resources/b95e6941-f984-4896-bb7e-1067fe6ad0af/gerb.jpg)
+> ![Ģerbonis](http://i.uzdevumi.lv/Resources/b95e6941-f984-4896-bb7e-1067fe6ad0af/gerb.jpg)<br>
 > Ģerboņa nozīmīgākā sastāvdaļa ir taisnstūrveida vairogs ar noapaļotu lejasdaļu. Latvijas ģerbonī tas sadalīts trīs daļās. Uz tā attēlots sarkans lauva, kas simbolizē Kurzemi un Zemgali, pelēks grifs (fantastisks zvērs ar lauvas ķermeni un ērgļa galvu), kas simbolizē Vidzemi un Latgali, augšā – saules motīvs.
 
 ##### Himna, tās autors un vēsture
