@@ -5,19 +5,13 @@ Latvijas Himna
 ---------------------
 
 Dievs, svētī Latviju,
-
 Mūs dārgo tēviju,
-
 Svētī jel Latviju,
-
 Ak, svētī jel to!
 
 Kur latvju meitas zied,
-
 Kur latvju dēli dzied,
-
 Laid mums tur laimē diet,
-
 Mūs, Latvijā!
 
 -----
@@ -401,3 +395,258 @@ Latvijas Republikas Satversme
 
 #### 37. Kādā gadījumā var ierobažot personas tiesības?
 > Ja ir tiesas spriedums.
+
+Mutvārdu pārbaudes jautājumi
+====================
+
+#### 1. Latvijas valsts simboli
+
+##### Karogs
+> Sarkanbaltsarkanā karoga vēsture ir sena. Lai gan tā izcelsmi pētījuši daudzi autori, pilnīgi droša informācija par to, kā karogs ir radies, nav.
+> 1917. gadā tapa mākslinieka Anša Cīruļa zīmētais karoga mets ar krāsu platumu 2:1:2, kas arī kļuva par pamatu Latvijas valsts karogam.
+> 1922. gadā Saeima pieņēma likumu par valsts karogu. Tajā bija arī noteikts, kad un kā karogs lietojams. Jau nedaudz vēlāk tika precizēts, ka karogs ir tumši sarkanā jeb karmīnsarkanā krāsā
+
+##### Ģerbonis
+> Ģerbonis ir atpazīstamības zīme.
+> Pirmo valsts ģerboni apstiprināja 1918. gada decembrī pēc tēlnieka Burkarda Dzeņa meta. Ģerbonī bija redzama uzlecoša saule, trīs zvaigznes, kas simbolizēja trīs vēsturiskos novadus – Kurzemi, Vidzemi un Latgali, un burts L (Latvija).
+> 1921. gadā Satversmes sapulce apstiprināja jaunu ģerboni. Tā autors ir grafiķis Rihards Zariņš.
+> ![Ģerbonis](http://i.uzdevumi.lv/Resources/b95e6941-f984-4896-bb7e-1067fe6ad0af/gerb.jpg)
+> Ģerboņa nozīmīgākā sastāvdaļa ir taisnstūrveida vairogs ar noapaļotu lejasdaļu. Latvijas ģerbonī tas sadalīts trīs daļās. Uz tā attēlots sarkans lauva, kas simbolizē Kurzemi un Zemgali, pelēks grifs (fantastisks zvērs ar lauvas ķermeni un ērgļa galvu), kas simbolizē Vidzemi un Latgali, augšā – saules motīvs.
+
+##### Himna, tās autors un vēsture
+> Lūgšana „Dievs, svētī Latviju!” pirmo reizi tika dziedāta 1873. gadā, atklājot I vispārējos latviešu dziesmu svētkus. Tās mūzikas un teksta autors bija Baumaņu Kārlis (1835-1905) – viens no pirmajiem latviešu oriģināldziesmu autoriem.
+
+#### 2. Latvijas ģeogrāfiskais raksturojums. Kultūrvēsturiskie apgabali. Iedzīvotāji
+
+##### ģeogrāfiskais izvietojums, robežas, daba
+> Latvija atrodas Eiropas ziemeļos, Baltijas jūras austrumu piekrastē.
+> Latvijai ir sauszemes robeža ar Lietuvu, Baltkrieviju, Krieviju, Igauniju.
+> Līdz 1940. gadam Latvijas kopējās robežas garums bija 1895 km, no tiem 494 km bija jūras robeža.
+> Tagad Latvijas sauszemes robeža ir ap 1300 km. Latvijas teritorija aizņem 64.6 tūkst. km2
+> līdz 1944. gadam tā aizņēma 65.8 tūkst. km2.
+
+##### kultūrvēsturisko apgabalu nosaukumi, to izvietojums, īpatnības
+> Kurzeme, Zemgale, Vidzeme, Latgale
+
+##### iedzīvotāju skaitliskais un nacionālais sastāvs, tā izmaiņas 20.gs
+> 2.05 mlj., Latvieši (60.5%), Krievi (26.6%), Baltkrievi (3.5%), Ukraiņi (2.4%), Poļi(2.2%), Lietuvieši (1.3%), Citas tautības (0.3%)
+
+#### 3. Krustnešu iebrukums un brīvības cīņas (12.gs. beigas - 13.gs.)
+
+##### tirgotāju, bruņinieku un baznīcas mērķi
+> Pāvests Innocents III pēc Alberta lūguma 1199.g. pasludināja krusta karu pret Livonijas pagānu tautām.
+> 13. gs. visu Rietumeiropu un Centrālo Eiropu kontrolēja Romas katoļu baznīca.
+> Uz katolizētās Eiropas politisko dzīvi ietekmi atstāja pāvestu un Svētās Romas vācu impērijas (ķeizaru) cīņa par laicīgo varu.
+
+##### cīņas pret krustnešiem
+> Visnopietnāko pretestību Zobenbrāļu ordenim izrādīja kurši un zemgaļi. 1210.g. kurši ar lielu floti mēģināja ieņemt Rīgu, bet uzbrukums cieta neveiksmi.
+> 1228. g. uzbrukums tika atkārtots.
+
+##### Senlatviešu un līvu (lībiešu) sakāves cēloņi, cīņas rezultāti (Livonija)
+> Oficiālais krusta karu iemesls Baltijas reģionā bija pagānu kristīšana.
+> 1201. g., kad bīskaps Alberts lika pamatakmeni Doma baznīcai, uzskata par Rīgas dibināšanas gadu.
+
+#### 4. Latvija Polijas - Lietuvas un Zviedrijas varā
+
+##### Latvija Polijas - Lietuvas varā (1561 - 1795)
+> 1558. gadā Livonijai uzbruka Krievija un Livonijasabruka, taču to pārņēma Polijas-Lietuvas karaliste un visa Latvijas teritorija nonāca Polijas-Lietuvas varā.
+
+##### Kurzemes hercogiste
+> 1561. gadā. Kurzemē uz Zemgalē izveidoja hercogisti, kurā valdīja vecie vācu ordeņa vadītāji.
+> Tās pirmajam valdniekam Gothardam Ketleram bija pretenzijas uz visu Latviju
+> Hercogistē viena pēc otras valdīja divas dinastijas un pāris ar tām nesaistīti hercogi.
+
+##### Latvija Zviedrijas varā (1629 - 1721)
+> 1600. gadā sākās karš starp Poliju-Lietuvu unZviedrijas impēriju. 1621. gadā Rīga ar Vidzemi nonāca Zviedrijas varā.
+> Latgale palika tiešā Polijas-Lietuvas varā, bet Kurzemes-Zemgales hercogiste turpināja pastāvēt.
+> 1721. gadā Krievijas impērija atņēma Zviedrijai Rīgu un Vidzemi.
+
+#### 5. Latvija Krievijas impērijas sastāvā (no 18.gs līdz 1917. g)
+
+##### Vidzemes iekarošana, Latgales un Kurzemes pievienošana Krievijas impērijai
+> ?????
+
+##### dzimtbūšanas (dzimtniecības) atcelšana un tās sekas
+> ?????
+
+##### latviešu tautas nacionālā atmoda, jaunlatvieši
+> ?????
+
+#### 6. 1905.gada revolūcija Latvijā
+
+##### revolūcijas cēloņi
+> ?????
+
+##### galvenie revolūcijas notikumi
+> ?????
+
+##### revolūcijas sakāve un rezultāti Latvijā
+> ?????
+
+#### 7. Pirmais pasaules karš Latvijas teritorijā
+
+##### karadarbības sākums Latvijas teritorijā
+> ?????
+
+##### bēgļi, rūpniecības uzņēmumu evakuācija
+> ?????
+
+##### latviešu strēlnieku bataljonu izveidošana
+> ?????
+
+#### 8. Latvijas valstsproklamēšana (pasludināšana) un neatkarības izcīnīšana (1918 - 1920)
+
+##### Latvijas valsts proklamēšanas (pasludināšanas) apstākļi
+> ?????
+
+##### Latvijas bruņoto spēku veidošanās
+> ?????
+
+##### Brīvības cīņas
+> ?????
+
+#### 9. Latvijas valsts attīstība (1920 - 1940)
+
+##### valsts iekārta un politiskā dzīve Latvijā parlamentārās demokrātijas laikā (1920 - 1934)
+> ?????
+
+##### politiskā dzīve Latvijā pēc K.Ulmaņa veiktā valsts apvērsuma (1934 - 1940)
+> ?????
+
+##### ievērojamākie valstsvīri
+> ?????
+
+#### 10. Latvijas valstiskās neatkarības iznīcināšana (1939 - 1940)
+
+##### Molotova - Ribentropa pakta sekas Latvijā
+> ?????
+
+##### Latvijas okupācijas sākums (1940.gada 17.jūnijs)
+> ?????
+
+##### Okupācijas varas pasākumi Latvijā
+> ?????
+
+#### 11. Latvija Otrā pasaules kara laikā
+
+##### nacistiskais okupācijas režīms
+> ?????
+
+##### latviešu militārie formējumi nacistu un padomju frontē
+> ?????
+
+##### Latvijas zaudējumi karā, latviešu emigrācija
+> ?????
+
+#### 12. Latvija PSRS sastāvā pēc Otrā pasaules kara
+
+##### represijas pret Latvijas iedzīvotājiem
+> ?????
+
+##### komunistiskās partijas varaas monopols
+> ?????
+
+##### pārspīlētā industrializācija un piespiedu kolektivizācija
+> ?????
+
+#### 13. Latvijas valstiskuma atjaunošana (20gs. 80g. beigas - 90.g.sākums)
+
+##### valstiskuma atjaunošanas priekšnoteikumi
+> ?????
+
+##### neatkarības atjaunošanas galvenie posmi
+> ?????
+
+##### Latvijas valsts starptautiskā atzīšana
+> ?????
+
+#### 14. Politiskā un saimnieciskā situācija Latvijā pēc neatkarības atgūšanas
+
+##### sabiedriskās dzīves demokratizācija
+> ?????
+
+##### saimnieciskās reformas, to rezultāti un problēmas
+> ?????
+
+##### Latvijas ārpolitikas galvenie virzieni un sasniegumi
+> ?????
+
+#### 15. Latviešu tautas tradīcijas un kultūra
+
+##### gadskārtusvinības - Ziemassvētki, Lieldienas, Jāņi (Līgosvētki)
+> ?????
+
+##### ievērojamākie literatūras un mākslas pārstāvji
+> ?????
+
+##### ievērojamākie vēstures un kultūras pieminekļi
+> ?????
+
+#### 16. Reliģija Latvijā
+
+##### padomju režīma politika reliģijas jautājumos, tās izpausmes un sekas
+> ?????
+
+##### lielākās konfesijas Latvijā mūsdienās
+> ?????
+
+##### Latgale - katolicisma apgabals
+> ?????
+
+Latvijas Republikas Satversme
+====================
+#### 1. Latvijas Republikas Satversmes pieņemšana.
+
+> Satversmes izstrādāšana prasīs daudz laika, Satversmes sapulce pieņēma divus pagaidu konstitucionālos aktus - 27.maijā Deklarāciju par Latvijas valsti un 1.jūnijā Latvijas valsts iekārtas pagaidu noteikumus. Deklarācija par Latvijas valsti sastāvēja tikai no diviem pantiem. 1.pantā bija noteikts, ka "Latvija ir patstāvīga un neatkarīga republika ar demokrātisku valsts iekārtu", bet 2.pantā bija deklarēts, ka "Latvijas valsts suverēnā vara pieder Latvijas tautai". Latvijas valsts iekārtas pagaidu noteikumi sastāvēja no 12 pantiem. Šajos noteikumos Satversmes sapulce tika pasludināta par Latvijas valsts suverēnās varas nesēju, un par tās uzdevumu tika noteikts "izstrādāt un izdot valsts pamata un agrārās reformas likumus", paredzot, ka sava uzdevuma veikšanas periodā Satversmes sapulce darbojas kā parlamentārā likumdevēja iestāde. Pēc savu uzdevumu izpildīšanas Satversmes sapulcei savas pilnvaras bija jānoliek.
+>
+> Svarīgākais Satversmes sapulces uzdevums bija Latvijas valsts Satversmes izstrādāšana un pieņemšana. 1922.gada 20.jūnijā Satversmes sapulce pieņēma likumu Par Latvijas Republikas Satversmes spēkā stāšanos un ieviešanu. Likums noteica, ka Satversme stājas spēkā 1922.gada 7.novembrī pulksten 12 dienā. Šajā laikā uz pirmo sēdi bija jāsanāk jaunievēlētajai Saeimai, kuras vēlēšanas bija noteiktas uz 7. un 8.oktobri. Šajā laikā izbeidzās Satversmes sapulces pilnvaras.
+
+#### 2. Latvijas Republikas Satversmes vispārējie noteikumi
+> LR Satversmes vispārējos noteikumos ietverti 4 panti.
+> 1.pants nosaka, ka Latvija ir neatkarīga un demokrātiska republika. Pants nostiprina principus: Latvijas valsts suverenitāti un valsts iekārtas demokrātisko raksturu.
+> 2. pants nosaka , ka valsts suverēnā vara Latvijas pieder Latvijas tautai. „Latvijas tauta” ir Latvijas pilsoņu kopums.
+> 3. pants nosaka, ka Latvijas teritorijas starptautiskos līgumos atzītās robežās sastāv no Vidzemes, Latgales, Kurzemes un Zemgales.
+> 4. Pants nosaka, ka valsts valoda Latvijā ir latviešu valoda.
+
+#### 3. Saeimas ievēlēšama
+> 1993.g. 5.-6.jūnijā tika ievēlēta LR 5.Saeima, kura saskaņā ar Satversmei sapulcējās uz pirmo sēdi jūlija sākumā. Saeimas deputāti pieņēma Paziņojumu, ka „LR Satversme stājusies spēkā pilnā apjomā”
+
+#### 4. Saeimas pilnvaras
+> LR Saeimas ir tiesības izdarīt grozījumus Satversmē, un tai ir likumdošanas tiesības. Tā ir pilnvarota ievēlēt, iecelt un apstiprināt, kā arī atbrīvot dažādas amatpersonas. Tikai Saeima ir tiesīga lemt par kara uzsākšanu vai slēgt mieru. Starptautiskiem līgumiem, kuri nokārto likumdošanas ceļā izšķiršanu jautājumu, nepieciešama Saeimas apstiprināšana. Saeimai ir tiesības apstiprināt valsts budžetu, lemt par valsts bruņotu spēku lielumu un kontrolēt valdību.
+
+#### 5. Nosacījumi grozījumu izdarīšanai Latvijas Republikas Satversmē
+> ?????
+
+#### 6. Tautas nobalsošana
+> Tautas nobalsošanai obligāti jānotiek, ja Saeima grozījusi Satversmes 1,2,3,4,6, vaii 77.pantu. Tai jānotiek viena līdz divu mēnešu laikā pēc Saeimas lēmuma par minēto pantu grozīšanu. Saeimas deputāti var ierosināt tautas nobalsošanu divos gadījumos: Ja mainas Latvijas dalības nosacījumi ES un ja to pieprasa puse deputātu.
+
+
+#### 7. Valsts prezidenta ievēlēšana
+> ?????
+
+#### 8. Valsts prezidenta pilnvaras
+> ?????
+
+#### 9. Ministru kabineta (valdības) izveidošana un atlaišana
+> ?????
+
+#### 10. Ministru kabineta (valdības) pilnvaras un atbildība
+> ?????
+
+#### 11. Tiesu vara
+> ?????
+
+#### 12. Valsts un cilvēka attiecību pamatprincipi
+> ?????
+
+#### 13. Latvijas Republikas Satversme par cilvēka pamattiesībām
+> ?????
+
+#### 14. Personas politiskās tiesības
+> ?????
+
+#### 15. Personas sociālekonomiskās un kultūras tiesības
+> ?????
+
+#### 16. Pilsoņa tiesības
+> ?????
