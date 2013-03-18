@@ -252,7 +252,7 @@ Kultūra un latviešu tautas tradīcijas
 > Bija viens no Latvijas "pirmās atmodas" galveniem ideologiem. 1894.gada Krišjānis Barons sistematizēja un izdota tautasdziesmu grāmatu: „Latviju Dainu”
 
 #### 4. (*) Kāda nozīmīga Latvijas kultūras dzīves tradīcija aizsākās Rīgā 1873. gadā?
-> Pirmie vispārējie latviešu dziesmu Rīgā.
+> Pirmie vispārējie latviešu dziesmu svētki.
 
 #### 5. Kā sauc latviešu tautas eposu?
 > "Lāčplēsis"
@@ -400,7 +400,7 @@ Latvijas Republikas Satversme
 #### 36. (*) Kura izglītība Latvijā ir obligāta?
 > Pamatizglītība. 9 klases.
 
-#### 37. Kādā gadījumā var ierobažot personas tiesības?
+#### 37. Kādā gadījumā var ierobežot personas tiesības?
 > Ja ir tiesas spriedums.
 
 Mutvārdu pārbaudes jautājumi
@@ -644,12 +644,18 @@ Latvijas Republikas Satversme
 #### 6. Tautas nobalsošana
 > Tautas nobalsošanai obligāti jānotiek, ja Saeima grozījusi Satversmes 1,2,3,4,6, vaii 77.pantu. Tai jānotiek viena līdz divu mēnešu laikā pēc Saeimas lēmuma par minēto pantu grozīšanu. Saeimas deputāti var ierosināt tautas nobalsošanu divos gadījumos: Ja mainas Latvijas dalības nosacījumi ES un ja to pieprasa puse deputātu.
 
-
 #### 7. Valsts prezidenta ievēlēšana
-> ?????
+> Valsts Prezidentu ievēlē Saeima uz 4 gadiem.
+> Valsts Prezidentu ievēlē, aizklāti balsojot, ar ne mazāk ka 51 Saeimas locekļu balsu vairākumu.
+> Par Valsts Prezidentu var ievēlēt pilntiesīgu Latvijas pilsoni, kurš sasniedzis 40 gadu vecumu.
+> Par Valsts Prezidentu nevar ievēlēt pilsoni ar dubultpilsonību.
 
 #### 8. Valsts prezidenta pilnvaras
-> ?????
+> Valsts Prezidentam ir tiesības spert nepieciešamos militārās aizsardzības soļus, ja kāda cita valsts Latvijai pieteikusi karu vai ienaidnieks uzbrūk Latvijas robežām.
+> Valsts Prezidentam ir tiesības apžēlot noziedzniekus, par kuriem tiesas spriedums stājies likumīgā spēkā.
+> Valsts Prezidentam ir tiesības sasaukt un vadīt ārkārtējas ministru kabineta sēdes, noteicot tām dienas kārtību.
+> Valsts Prezidentam ir likuma ierosināšanas tiesība.
+> Valsts Prezidentam ir tiesība ierosināt Saeimas atlaišanu.
 
 #### 9. Ministru kabineta (valdības) izveidošana un atlaišana
 > ?????
@@ -670,7 +676,17 @@ Latvijas Republikas Satversme
 > ?????
 
 #### 15. Personas sociālekonomiskās un kultūras tiesības
-> ?????
+> Valstij jāuzņemas noteikti pienākumi to cilvēku sociālajai aizsardzībai, kuri nespēj gādāt paar sevi, un jāgarantē iespējas pašiem parūpēties par savu labklājību tiem, kas to nespēj.
+> 105.Pants garantē tiesības uz īpašumu.
+> 106.-108. Pants veltīts cilvēka tiesībām uz humāniem darba apstākļiem un tā apmaksu.
+> 107.pants veltīts darba tiesībām.
+> 108.pants strādājošiem dod tiesības uz koplīgumu, ka arī tiesības streikot
+> 109.pants nosaka cilvēka tiesības uz sociālo nodrošinājumu vecuma, darbnespējas, bezdarba un citos likumā noteiktajos gadījumos.
+> 110.pants nosaka valsts aizsardzību un atbalstu laulībai, ģimenei, garantē vecāku un bērna tiesības.
+> 113.pants nosaka, ka valsts atzīst zinātniskās, mākslinieciskās un citādas jaunrades brīvību.
+> 114.pants veltīts to cilvēku tiesībām, kas Latvijā pieder pie mazākumtautītām.
+> 115.pants nosaka valsts aizsardzību cilvēka tiesībām dzīvot labvēlīgā vidē.
+> 116.pants nosaka, ka valsts likumā paredzētajos gadījumos var ierobežot virkni personas tiesību.
 
 #### 16. Pilsoņa tiesības
 > ?????
