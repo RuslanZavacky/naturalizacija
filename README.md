@@ -549,35 +549,40 @@ Mutvārdu pārbaudes jautājumi
 #### 11. Latvija Otrā pasaules kara laikā
 
 ##### nacistiskais okupācijas režīms
-> ?????
+> s okupācijas režīms. Šā režīma mērķus attiecībā uz Baltijas valstīm 1941 V izteica reihskomisārs A.Rozenbergs, uzsverot, ka Latvijai, Lietuvai un Igaunijai jākļūst par vācu protektorātu, lai vēlāk šīs teritorijas anektētu un iekļautu Lielvācijā; rasiski piemērotos šo tautu elementus asimilēs ar vācu rases pārstāvjiem, bet nevēlamos - iznīcinās. Baltijas jūrai bija jākļūst par vācu iekšējo ezeru Lielvācijas apsardzībā. Tika izstrādāts Baltijas kolonizācijas plāns (ģenerālplāns Ost). Baltijas valstu un Rietumbaltkrievijas pārvaldīšanai tika nodibināts reihskomisariāts Ostland ar sēdekli Rīgā. Režīma interesēs darbojās policija, gestapo, žandarmērija un šucmaņi.
 
 ##### latviešu militārie formējumi nacistu un padomju frontē
 > ?????
 
 ##### Latvijas zaudējumi karā, latviešu emigrācija
-> ?????
+> 2. pasaules kara laikā Latvija zaudēja valstisko neatkarību un 3 reizes tika okupēta. Latvijas pilsoņi karoja abu okupētājvalstu - PSRS un Vācijas - armijā un cieta milzīgus zaudējumus. PSRS armijas daļās un sarkano partizānu cīņās dzīvību zaudēja 12-15 tūkst. Latvijas pilsoņu, bet Latviešu leģionam bija ap 70 tūkst. kritušo.
+> Vairāk nekā 150 tūkst. Latvijas pilsoņu devās bēgļu gaitās uz Rietumiem (latvieši trimdā), aptuveni 22 tūkst. tika aizdzīti darbos uz Vāciju. Salīdzinājumā ar 1939 (1,89 milj.) Latvija bija zaudējusi 1/3 iedzīvotāju.
 
 #### 12. Latvija PSRS sastāvā pēc Otrā pasaules kara
 
 ##### represijas pret Latvijas iedzīvotājiem
-> ?????
+> Pēc padomju zemes reformas vienlaikus ar piespiedu lauksaimniecības kolektivizāciju 1949 notika plaša iedzīvotāju izvešana (25. marta deportācija). Pavisam Latvijā staļiniskā režīma represijās (1940-1941; 1944-1953) cieta ap 150 tūkst. cilvēku. 50. gadu beigās, sākoties Hruščova "atkusnim" Latvijā, daļa represēto atgriezās.
 
-##### komunistiskās partijas varaas monopols
-> ?????
+##### komunistiskās partijas varas monopols
+> Lai nodrošinātu sev pakļautās sarkanarmiešu daļas ar pārtiku, P. Stučkas valdība noteica monopolu graudiem, kartupeļiem, cukuram un sālij. Šos produktus iedzīvotājiem rekvizēja.
 
 ##### pārspīlētā industrializācija un piespiedu kolektivizācija
-> ?????
+> Visas tautsaimniecības nozares Latvijā tika pakļautas centralizētai plānošanai. Turpmāk tām vajadzēja attīstīties saskaņā ar piecgadu plāniem. Plānveida saimniecībā vadošā loma bija vissavienības ministrijām, kas kontrolēja ap 80% rūpniecisko ražošanu Latvijā. Forsētā industrializācija izraisīja migrāciju, kas būtiski pārmainīja iedzīvotāju etnisko sastāvu.
 
 #### 13. Latvijas valstiskuma atjaunošana (20gs. 80g. beigas - 90.g.sākums)
 
 ##### valstiskuma atjaunošanas priekšnoteikumi
-> ?????
+> Pēc Augusta puča Maskavā izgāšanās, Latvijas Republikas Augstākā Padome, izmantojot PSRS ortodoksālo spēku neveiksmi un situāciju, kad impērijā sabruka konstitucionālās valsts varas un pārvaldes institūcijas, kā arī balstoties uz Neatkarības deklarāciju un Latvijas Republikas iedzīvotāju aptaujas rezultātiem, 1991.21.VIII plkst. 13.10 pieņēma konstitucionālo likumu Par Latvijas Republikas valstisko statusu (111 deputāti balsoja - par, 13 - pret). Likumā tika pasludināts:
+> 1. Noteikt, ka Latvija ir neatkarīga, demokrātiska republika, kurā Latvijas valsts suverēnā vara pieder Latvijas tautai un kuras valstisko statusu nosaka Latvijas Republikas 1922.gada 15.februāra Satversme.
+> 2. Atzīt par spēku zaudējušu 1990.gada 4.maija deklarācijas "Par Latvijas Republikas neatkarības atjaunošanu" 5.punktu, ar kuru tika noteikts pārejas periods Latvijas valstiskuma atjaunošanai de facto.
+> Likumā tika noteikts, ka līdz 5.Saeimas sasaukšanai augstāko valsts varu valstī pilnībā īsteno Latvijas Republikas Augstākā Padome un, ka turpmāk Latvijā būs spēkā tikai Latvijas augstāko valsts varas un pārvaldes institūciju likumi un lēmumi.
+> Likums stājās spēkā ar tā pieņemšanas brīdi. Latvija atguva neatkarību un kļuva par starptautisko attiecību subjektu. 1991 VIII-IX sākās Latvijas Republikas atjaunotās neatkarības atzīšanas process. 1991.18.IX Latvija kļuva par ANO dalībvalsti. Vēlāk tā iestājās arī citās starptautiskās organizācijās. (1996 Latvijai bija diplomātiskās attiecības ar >160 valstīm).
 
 ##### neatkarības atjaunošanas galvenie posmi
 > ?????
 
 ##### Latvijas valsts starptautiskā atzīšana
-> ?????
+> Sabiedroto valstu Augstākā padome (Lielbritānija, Francija, Itālija, Japāna un Beļģija) 1921.26.I paziņoja par Latvijas valsts atzīšanu de iure. Oficiālajā paziņojumā, ko Parīzē saņēma ārlietu ministrs Zigfrīds Meierovics, bija teikts, ka "lielvalstis grib ar to atzīmēt savas simpātijas pret latvju tautu un godināt viņas kārtībā un mierā veikto darbu savas nacionālās dzīves organizēšanā". ASV valdība Latvijas valsti atzina 1922.28.VII.
 
 #### 14. Politiskā un saimnieciskā situācija Latvijā pēc neatkarības atgūšanas
 
