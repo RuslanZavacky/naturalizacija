@@ -511,18 +511,18 @@ Mutvārdu pārbaudes jautājumi
 > 1915IV Vācijas karaspēks iebruka Dienvidkurzemē un īsā laikā okupēja visu Kurzemi. Simtiem tūkstošu mierīgo iedzīvotāju kļuva par bēgļiem. Bēgļu lietu kārtošanai tika izveidotas īpašas bēgļu komitejas. 1915.g. 2. pusē sākās latviešu strēlnieku bataljonu formēšana.
 
 ##### latviešu strēlnieku bataljonu izveidošana
-> ?????
+> Līdz 1. pasaules karam Krievijas armijā nekrievu karaspēka vienību nebija. 1915.g. pavasarī, kad Vācijas karaspēks iebruka Kurzemē un virzījās uz Rīgu, Valsts domes deputāti J. Goldmanis un J. Zālītis panāca atļauju formēt atsevišķas latviešu karaspēka vienības. Tika ņemta vērā latviešu attieksme pret vācu baroniem un tas, ka aizstāvamā teritorija ir latviešu zeme, kā arī tas, ka jaunās patriotiskās vienības varēja izmainīt stāvokli frontē - padzīt vāciešus no Kurzemes vai vismaz atspiest tos tālāk no Rīgas. 1915.19.VII/1.VIII Ziemeļrietumu frontes virspavēlnieks ģen. M. Aleksejevs izdeva pavēli 1. Daugavgrīvas un 2. Rīgas latviešu strēlnieku bataljonu izveidošanu no latviešu brīvprātīgajiem. Šajās nacionālajās vienībās tika atļauts lietot latviešu valodu, nēsāt īpašu krūšu nozīmi, kā arī lietot vienību karogus ar uzrakstiem krievu un latviešu valodā
 
-#### 8. Latvijas valstsproklamēšana (pasludināšana) un neatkarības izcīnīšana (1918 - 1920)
+#### 8. Latvijas valsts proklamēšana (pasludināšana) un neatkarības izcīnīšana (1918 - 1920)
 
 ##### Latvijas valsts proklamēšanas (pasludināšanas) apstākļi
 > ?????
 
 ##### Latvijas bruņoto spēku veidošanās
-> ?????
+> 4 diena pēc Latvijas Republikas proklamēšanas 1918. gada 18. novembrī, tika izveidota Latvijas Pagaidu valdības Apsardzības ministrija. 6. decembrī apsardzības ministra pienākumus uzņēmās J.Zālītis. 7. decembrī Apsardzības ministrs Pagaidu valdības vārdā noslēdza līgumu[2] ar Veimāras republikas pilnvaroto pārstāvi A.Vinnigu par Latvijas armijas - landesvēra (zemessardzes) - izveidošanu, paredzot tajā 18 latviešu, 7 vācu un 1 krievu rotas, kā arī 3 latviešu un 2 vācu karavīru artilērijas baterijas. Pavisam plānoja savākt 6000 brīvprātīgo. Par komandieri bija plānots uzaicināt neitrālas valsts virsnieku, taču galu galā iecēla vācu armijas majoru Šeibertu
 
 ##### Brīvības cīņas
-> ?????
+> Latvijas brīvības cīņas jeb Latvijas atbrīvošanas karš bija cīņas par neatkarīgu Latvijas valsti no tās proklamēšanas 1918. gada 18. novembrī līdz Latvijas-Krievijas miera līguma noslēgšanai 1920. gada 11. augustā. Cīņās jaundibinātā Latvijas Republika, ko bija atzinušas Igaunija, Polija un Rietumu sabiedrotie (de facto), pieveica gan Padomju Krievijas un Padomju Latvijas, gan vācu Dzelzsdivīzijas un Rietumkrievijas Brīvprātīgo armijas (Bermonta) karaspēkus. Vācbaltieši dažādos kara posmos karoja gan Tautas padomes izveidotās Latvijas Pagaidu valdības karaspēka sastāvā, gan pret to.
 
 #### 9. Latvijas valsts attīstība (1920 - 1940)
 
@@ -538,10 +538,10 @@ Mutvārdu pārbaudes jautājumi
 #### 10. Latvijas valstiskās neatkarības iznīcināšana (1939 - 1940)
 
 ##### Molotova - Ribentropa pakta sekas Latvijā
-> ?????
+> Vācijas un PSRS neuzbrukšanas līgumam, ko 23.VIII Maskavā parakstīja šo valstu ārlietu ministri V. Molotovs un J. fon Ribentrops, tika pievienots slepens protokols, par kura saturu telefoniski bija vienojušies Staļins un Hitlers. Slepenajā protokolā lielvalstu vadītāji vienojās Austrumeiropas valstis sadalīt interešu sfērās. Somija, Baltijas valstis, daļa Polijas un daļa Rumānijas nokļuva PSRS interešu zonā. Īstenojot šo slepeno vienošanos, sākās process, kas noslēdzās ar Latvijas iekļaušanu PSRS.
 
 ##### Latvijas okupācijas sākums (1940.gada 17.jūnijs)
-> ?????
+> 1940.16.VI Latvijas valdība saņēma PSRS valdības notu un tās pašas dienas vakarā Ministru kabinets nolēma PSRS ultimatīvās prasības izpildīt. 17.VI agri no rīta sarkanās armijas vienības (~100 tūkst. vīru, 2500 tanki un 2000 lidmašīnu) šķērsoja Latvijas robežas un pusdienlaikā jau bija Rīgā. Sarkanās armijas daļas ieņēma visas lielākās Latvijas pilsētas (Rīgu, Daugavpili, Rēzekni, Jelgavu, Bausku, Tukumu, Ventspili, Liepāju u.c.). Rīgā PSRS bruņutehnika tika izvietota pie valsts svarīgākajiem objektiem. Vienas dienas laikā visa Latvija tika okupēta. Sākās Latvijas aneksija, Latvijas sovjetizācija un Latvijas iekļaušana PSRS (arī Latvijas PSR).
 
 ##### Okupācijas varas pasākumi Latvijā
 > ?????
