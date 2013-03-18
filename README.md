@@ -268,7 +268,7 @@ Kultūra un latviešu tautas tradīcijas
 
 
 #### 9. Kas raksturīgs Jāņu (Līgosvētku) svinēšanai Latvijā?
-> Dedzina Jāņuguni, meklēšana papardes Zelta un Dimanta ziedes, dzeršana alu, edašana ķimeņu sieru.
+> Jāņuguns kurināšana, "līgo" dziesmu dziedāšana, dejošana, alu dzeršana un siera ēšana.
 
 Reliģija
 ---------------------
@@ -319,7 +319,7 @@ Latvijas Republikas Satversme
 > 2 termiņus pēc kārtas
 
 #### 12. Kādas ir Valsts prezidenta sešas pamatpilnvaras?
-> Reprezentēt valsti starptautiski. Ir valsts bruņoto spēku augstākais vadonis. Ierosināt Saiemas atlaišanu. Izvēlēties amatpersonu, kurai jāsastāda Ministru Kabinets. Sasaukt ārkārtējās valdības sēdes. Motivētā rakstā pieprasīt, lai Saeima pārskata pieņemto likumu un apturēt pieņemtā likuma publicēšanu uz 2 mēnešiem.
+> Reprezentēt valsti starptautiski. Ir valsts bruņoto spēku augstākais vadonis. Ierosināt Saiemas atlaišanu. Izvēlēties amatpersonu, kurai jāsastāda Ministru Kabinets. Sasaukt ārkārtējās valdības sēdes. Izsludināt likumus.
 
 #### 13. (*) Kam Latvijā pieder augstākā izpidvara?
 > Ministru kabinetam.
