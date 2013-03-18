@@ -451,22 +451,22 @@ Mutvārdu pārbaudes jautājumi
 
 ##### Senlatviešu un līvu (lībiešu) sakāves cēloņi, cīņas rezultāti (Livonija)
 > Oficiālais krusta karu iemesls Baltijas reģionā bija pagānu kristīšana.
-> 1201. g., kad bīskaps Alberts lika pamatakmeni Doma baznīcai, uzskata par Rīgas dibināšanas gadu.
+> 1201.g., kad bīskaps Alberts lika pamatakmeni Doma baznīcai, uzskata par Rīgas dibināšanas gadu.
 
 #### 4. Latvija Polijas - Lietuvas un Zviedrijas varā
 
 ##### Latvija Polijas - Lietuvas varā (1561 - 1795)
-> 1558. gadā Livonijai uzbruka Krievija un Livonijasabruka, taču to pārņēma Polijas-Lietuvas karaliste un visa Latvijas teritorija nonāca Polijas-Lietuvas varā.
+> 1558.gadā Livonijai uzbruka Krievija un Livonijasabruka, taču to pārņēma Polijas-Lietuvas karaliste un visa Latvijas teritorija nonāca Polijas-Lietuvas varā.
 
 ##### Kurzemes hercogiste
-> 1561. gadā. Kurzemē uz Zemgalē izveidoja hercogisti, kurā valdīja vecie vācu ordeņa vadītāji.
+> 1561.gadā. Kurzemē uz Zemgalē izveidoja hercogisti, kurā valdīja vecie vācu ordeņa vadītāji.
 > Tās pirmajam valdniekam Gothardam Ketleram bija pretenzijas uz visu Latviju
 > Hercogistē viena pēc otras valdīja divas dinastijas un pāris ar tām nesaistīti hercogi.
 
 ##### Latvija Zviedrijas varā (1629 - 1721)
-> 1600. gadā sākās karš starp Poliju-Lietuvu unZviedrijas impēriju. 1621. gadā Rīga ar Vidzemi nonāca Zviedrijas varā.
+> 1600.gadā sākās karš starp Poliju-Lietuvu unZviedrijas impēriju. 1621. gadā Rīga ar Vidzemi nonāca Zviedrijas varā.
 > Latgale palika tiešā Polijas-Lietuvas varā, bet Kurzemes-Zemgales hercogiste turpināja pastāvēt.
-> 1721. gadā Krievijas impērija atņēma Zviedrijai Rīgu un Vidzemi.
+> 1721.gadā Krievijas impērija atņēma Zviedrijai Rīgu un Vidzemi.
 
 #### 5. Latvija Krievijas impērijas sastāvā (no 18.gs līdz 1917. g)
 
