@@ -483,21 +483,32 @@ Mutvārdu pārbaudes jautājumi
 #### 6. 1905.gada revolūcija Latvijā
 
 ##### revolūcijas cēloņi
-> ?????
+> pareizticīgās baznīcas iespiešanās Vidzemē, rosinot zemniekus aiziet no vāciski orientētās evaņģēliski luteriskās baznīcas,
+> „Pēterburgas Avīzes” un citi izdevumi, kas veicināja nacionālismu un naidu pret vāciešiem,
+> Rīgas Latviešu biedrības nacionālistiskā darbība,
+> Baltijas provinču autonomijas pretinieku ierosinātā senatora Nikolaja Manaseina revīzija 1882. gadā, kas izraisīja Baltijas pārkrievošanu,
+> latviešu zemnieku dēlu studēšana Maskavas un citās Krievijas universitātēs, no kurienes tika atnests krievu studentu nihilistiskais, sociāldemokrātiskais gars.[1]
 
 ##### galvenie revolūcijas notikumi
-> ?????
+> 13. janvāra notikumi Rīgā
+> Maija demonstrācijas un pirmais terora akts
+> Streiku kustība un kaujinieku grupu uzbrukumi
+> Oktobra manifesta pieņemšana
+> Decembra bruņotās sacelšanās
+> Muižu dedzināšana
+> Sadursmes Madonas apkārtnē
+> Apspiešana
 
 ##### revolūcijas sakāve un rezultāti Latvijā
-> ?????
+> Muižniecība Baltijas guberņās saglabāja savas pamatprivilēģijas, Vidzemes un Kurzemes landtāgi joprojām palika augstākās pašvaldības iestādes. Tomēr mazinājās pārkrievošanas spaidi, Latgalē tika atcelts drukas aizliegums. Tautskolās drīkstēja mācīt latviešu valodā, bet to atcēla 1913. gadā. LSDSP pasludināja par legālu partiju. Krievijas imperators parakstīja īpašu rīkojumu, kas atļāva veidot kooperācijas Baltijas guberņās. Vācu zemes bankai atņēma monopoltiesības[11], izveidoja Rīgas Lauksaimnieku centrālbiedrību.
 
 #### 7. Pirmais pasaules karš Latvijas teritorijā
 
 ##### karadarbības sākums Latvijas teritorijā
-> ?????
+> Sākās 1914.20.VII/2.VIII ar Liepājas apšaudi.
 
 ##### bēgļi, rūpniecības uzņēmumu evakuācija
-> ?????
+> 1915IV Vācijas karaspēks iebruka Dienvidkurzemē un īsā laikā okupēja visu Kurzemi. Simtiem tūkstošu mierīgo iedzīvotāju kļuva par bēgļiem. Bēgļu lietu kārtošanai tika izveidotas īpašas bēgļu komitejas. 1915.g. 2. pusē sākās latviešu strēlnieku bataljonu formēšana.
 
 ##### latviešu strēlnieku bataljonu izveidošana
 > ?????
