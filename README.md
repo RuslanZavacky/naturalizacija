@@ -331,7 +331,14 @@ Latvijas Republikas Satversme
 > Ja Saeima izsaka neuzticību Ministru prezidentam un Ministru kabinetam kopumā. Ja Saeima neapstiprina budžetu. Ja beidzās termiņš.
 
 #### 16. Kādas ir Ministru kabineta (valdības) pamatpilnvaras?
-> Apspriest izstrādātos likumprojektus un iesniegt tos Saeimā. Apspriest ekonomikas un valsts politikas jautājumus. Sastādīt un iesniegt Saeimā valsts budžetu.
+> Ministru kabinetam pieder likumu ierosināšanas tiesības un tiesības iecelt vai apstiprināt amatos daļu civildienesta ierēdņu.
+> Ministru kabinets var izdot normatīvus aktus - noteikumus šādos gadījumos:
+> 1. ja likumā noteiktas īpašas pilnvaras jeb deleģējums Ministru kabinetam;
+> 2. ja attiecīgais jautājums nav noregulēts ar likumu.
+>
+> Ministru kabinets un atsevišķs ministrs var izdot sev padotajām institūcijām saistošas instrukcijas:
+> 1. ja likums vai noteikumi Ministru kabinetu vai atsevišķu ministru tam īpaši pilnvaro;
+> 2. ja attiecīgais jautājums ar likumu vai noteikumiem nav noregulēts.
 
 #### 17. Kā Latvijas pilsoņi var piedalīties likumprojektu iesniegšanā Saeimā?
 > 10 000 iedzīvotāju var iesniegt Centrālajā vēlēšanu komisijā (CVK ) likumprojektu vai tiek savākti 10% vēlētāju parakstu izsludinātam CVK likumprojektam.
@@ -464,13 +471,14 @@ Mutvārdu pārbaudes jautājumi
 #### 5. Latvija Krievijas impērijas sastāvā (no 18.gs līdz 1917. g)
 
 ##### Vidzemes iekarošana, Latgales un Kurzemes pievienošana Krievijas impērijai
-> ?????
+> Vidzemes guberņa bija autonoma administratīva vienība Krievijas impērijas sastāvā, kurā ietilpa Latvijas kultūrvēsturiskais Vidzemes novads, Igaunijas dienviddaļa un Sāmsala. Vidzemes guberņas pašpārvaldi nodrošināja savs parlaments – Vidzemes landtāgs. Līdz pat 19.gs. beigām Vidzemes guberņas oficiālā valoda bija vācu valoda. Civilās pārvaldes augstākā vara bija gubernatoram. Tā padomdevēja organizācija bija landrātu kolēģija. Gubernatora rīkojumus, ko viņš izdeva, saskaņojot ar landrātu kolēģiju, sauca par "patentiem", kam bija likuma spēks guberņas teritorijā. 1917. gadā igauņu apdzīvotos Vidzemes guberņas apriņķus pievienoja Igaunijas guberņai, bet latviešu apdzīvotos Vitebskas guberņas apriņķus pievienoja Vidzemes guberņai.
+> Vidzemes guberņa (vācu: Livländisches Gouvernement, krievu: Лифляндская губерния) pastāvēja no 1796. līdz 1918. gadam. Sastāvēja no Rīgas, Cēsu, Valmieras, Valkas, Pērnavas, Vīlandes, Veru, Tērbatas un Sāmsalas apriņķiem. Guberņu pārvaldīja imperatora iecelts gubernators tam padotām muižniecības pašpārvaldes institūcijām un ierēdņiem (landrātu kolēģija, landtāgs, bruņinieku konvents, landmaršals). 1819. gadā apriņķi tika sadalīti pagastos un muižās. 1917. gada 30. martā (12. aprīlī) Krievijas Pagaidu valdība izdeva rīkojumu par Vidzemes guberņas sadalīšanu divās daļās un igauņu apdzīvoto apriņķu pievienošanu Igaunijas guberņai. Pirmais Latgales latviešu kongress 1917. gada 26. - 27. aprīlī (9.-10. maijā) prasīja latviešu apdzīvoto Vitebskas guberņas apvienošanu pēc nacionālā principa ar Vidzemes un Kurzemes guberņām, tomēr Krievijas valdība vilcinājās pieņemt šādu lēmumu. Toties Krievijas PSFR Tautas komisāru padome 1917. gada 14. decembrī izdeva rīkojumu Nr. 93. par Daugavpils, Ludzas un Rēzeknes apriņķu atdalīšanu no Vitebskas guberņas un to pievienošanu Vidzemes guberņai. Brestļitovskas miera līgumā Krievija atsacījās no Vidzemes, Kurzemes un Igaunijas guberņām un formāli tika nodibināta Apvienotā Baltijas hercogiste.
 
 ##### dzimtbūšanas (dzimtniecības) atcelšana un tās sekas
-> ?????
+> Pēc kara sākās plaši zemnieku nemieri. Zemnieki atteicās pieņemt jaunās vaku grāmatas, kuras bija noteikti vēl lielāki pienākumi nekā agrāk. Stāvokļa stabilizēšanai laukos, valdība prasīja, lai muižnieki Baltijā izdarītu agrāro reformu. Pēc Prūsijas muižnieku parauga pirmie projektu par zemnieku brīvlaišanu bez zemes izstrādāja Igaunijas guberņas muižnieki. Līdzīgu projektu iesniedza arī Kurzemes (1817) un Vidzemes (1819) muižnieki. Formāli zemnieki kļuva brīvi, bet pārvietoties varēja tikai ar muižnieka un pagasta valdes (pagasts) atļauju. Tikai neliela daļa dzimtļaužu guva labumu no dzimtbūšanas atcelšanas. Tie bija krodzinieki, dzirnavnieki (Latvijā bija ap 4 tūkst. krogu un 750 dzirnavu) un lauku tirgotāji. Zemnieku stāvoklis Vidzemē sevišķi pasliktinājās 1841, kad pēc neražas gadiem muižnieki spirta dedzināšanai bija iztukšojuši arī pagasta magazīnas, kur zemnieki iepriekšējos gados bija atlikuši labību bada gadījumam. Lai izbēgtu no muižnieku patvaļas un smagajiem dzīves apstākļiem, zemniekiem radās doma izceļot. Izceļošanas kustība pārsviedās arī uz Latgali un Baltkrieviju. Muižniekiem draudēja lēta darbaspēka zudums. Valdība centās kustību apspiest, uz atsevišķām vietām tika nosūtītas soda ekspedīcijas (Kartupeļu dumpji), kas izceļot gribētājus ķēra un nežēlīgi pēra. Tomēr zemnieki meklēja jaunas iespējas izceļot, pastiprinājās pāreja pareizticībā. Lai ierobežotu muižnieku tieksmi paplašināt savus tīrumus uz zemnieku zemju rēķina, 1849 Nikolajs I apstiprināja jaunu Vidzemes zemnieku pagaidu agrārlikumu.
 
 ##### latviešu tautas nacionālā atmoda, jaunlatvieši
-> ?????
+> Tautas atmodas ideoloģijas saknes bija meklējamas ne tikai Latvijā, tās bija saistītas arī ar 1848.g. pilsoniskās revolūcijas norisēm Vācijā. Nozīmīga loma savstarpējo ideju plūsmā bija vācu dzejniekam Johanam Gotfrīdam Herderam, kurš dzīvodams Rīgā, bija iepazinies ar latviešu kultūru un uzstājās pret latviešu apspiešanu un viņu kultūras noniecināšanu. Jaunlatviešu idejas ātri izplatijās tautā. 70. gados nozīmīgākais tautas nacionālās pašapziņas modinātājs un valodas kopējs bija Atis Kronvalds. Viņa Tērbatā aizsākto Latvju rakstniecības vakaru dalībnieki Vecākajā atskaņu hronikā atrada cēsinieku kaujas karoga aprakstu. Sarkanbaltsarkanais karogs kļuva par nacionālo simbolu un vēlāk par Valsts karogu. Ap 1868 jaunlatvieši pārņēma J.G.Herdera aizsākto latviešu tautasdziesmu vakšanu. Sākumā šo darbu veica Fricis Brīvzemnieks, bet vēlāk – K.Barons. Tautasdziesmas tika sistematizētas pēc satura līdzības un sakārtotas cilvēka dzīves un gadskārtu secībā (1894 iznāca “Latvju Dainu” 1. burtnīca). Tautasdziesmām vienmēr bijusi liela loma latviešu kultūrā – tajās izkristalizēti latviešu tautas dzīves uztveres un ētikas pamati.
 
 #### 6. 1905.gada revolūcija Latvijā
 
