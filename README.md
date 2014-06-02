@@ -110,10 +110,10 @@ Latvijas vēsture līdz 20.gadsimtam
 > ???
 
 #### 5. Kurā gadsimtā sāka darboties pirmās latviešu skolas?
-> ???
+> 16. gadsimta otrajā pusē
 
 #### 6. Kāpēc Latvijas vēsturē nozīmīgs ir vācu publicista Garlība Merķeļa darbs "Latvieši"?
-> ???
+> Veicināja latviešu pašapziņas veidošanos un rosināja interesi par vēsturi
 
 #### 7. Kādi apstākļi sekmēja ekonomisko attīstību Latvijā 19.gs. beigās?
 > Dzimtbūšanas atcelšana.
@@ -153,7 +153,7 @@ Jaunāko laiku Latvijas vēsture
 > 1917.gadā Ziemassvētku kaujas (Rīgas aizstāvēšana).
 
 #### 5. Kāds nozīmīgs notikums pasaulē 1918.gadā veicināja neatkarīgas Latvijas valsts izveidošanos?
-> ???
+> (?) Brestļitovskas miera līgums
 
 #### 6. (*) Kad tika pasludināta neatkarīgā Latvijas valsts?
 > 1918.gada 18. novembris
@@ -179,7 +179,7 @@ Jaunāko laiku Latvijas vēsture
 #### 13. Kas un kad pieņēma Latvijas Republikas Satversmi?
 > Satversmes sapulce 1922.gada 15.februārī.
 
-#### 14. Kādi apstākļi veicināja lauksaimniecības un rūpniecības attīstību 10.gs. 20.gadu sākumā?
+#### 14. Kādi apstākļi veicināja lauksaimniecības un rūpniecības attīstību 20.gs. 20.gadu sākumā?
 > ???
 
 #### 15. Kāds politiskais režīms bija Latvijā laikā no 1920. - 1934.gadam?
@@ -189,7 +189,7 @@ Jaunāko laiku Latvijas vēsture
 > Antikonstitucionālais valsts apvērsums
 
 #### 17. Kāds politiskais režīms bija Latvijā laikā no 1934.-1940. gadam?
-> ???
+> Autoritārisms
 
 #### 18. Kāda bija K. Ulmaņa režīma attieksme pret politiskajām partijām pēc 1934.gada 15.maija?
 > Visu partiju darbība tika pārtraukta
@@ -273,13 +273,13 @@ Kultūra un latviešu tautas tradīcijas
 > ???
 
 #### 4. Ar ko latviešu kultūrā ir nozīmīgs 19.gadsimts?
-> ???
+> (?) Latviešu tautas atmoda
 
 #### 5. Kāpēc Rīgas vēsturiskais centrs ir atzīts par pasaules nozīmes kultūras mantojumu?
 > Pateicoties _Jūgendstila pērlei_
 
 #### 6. Kura ir nozīmīgākā F.B.Rastrelli projektētā baroka celtne Latvijā?
-> ???
+> Rundāles pils
 
 #### 7. Kāpēc latviešu kultūrā ir nozīmīgs Krišjānis Barons?
 > Bija viens no Latvijas "pirmās atmodas" galveniem ideologiem. 1894.gada Krišjānis Barons sistematizēja un izdota tautasdziesmu grāmatu: „Latviju Dainu”
@@ -294,22 +294,22 @@ Kultūra un latviešu tautas tradīcijas
 > Dzejas un dramaturģija sasniedz filozofiskus augstumus
 
 #### 11. Kāpēc latviešu kultūrā nozīmīgs ir Rūdolfs Blaumanis?
-> ???
+> (?) Literatūras un teātra attīstība
 
 #### 12. Kuri ir latviešu glezniecības vecmeistari?
-> ???
+> ??? 
 
 #### 13. Ar ko ievērojams latviešu teātra mākslas attīstībā ir Ādolfs Alunāns?
-> ???
+> Vadīja Rīgas Latviešu teātri, popularizēja teātra mākslu, nodibināja "Alunāna teātri" Jelgavā.
 
 #### 14. Kuriem režisoriem ir nozīmīga loma latviešu teātra mākslas attīstībā laikā no 20.gs. 20. līdz 60. gadiem?
-> ???
+> Eduards Smiļģis
 
 #### 15. Ar ko ievērojams latviešu mākslas attīstībā ir Vilhelms Purvītis?
-> ???
+> (?) Viens no latviešu nacionālās glezniecības skolas aizsācējiem
 
 #### 16. Ar ko ievērojams latviešu kultūrā ir Jāzeps Vītols?
-> ???
+> Radījis daudz pazīstamu skaņdarbu balsij un klavierēm, simfonijas un kora balādes. Ar savu daiļradi viņš ir pacēlis līdz klasiskajam līmenim daudzus latviešu mūzikas žanrus un ar savu darbību strauji virzījis uz priekšu profesionālo mūziku Latvijā.
 
 #### 17. (*) Kurš ir Brīvības pieminekļa un Brāļu kapu memoriāla autors?
 > Kārlis Zāle
