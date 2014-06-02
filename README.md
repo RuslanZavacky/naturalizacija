@@ -90,24 +90,16 @@ Latvijas vēsture līdz 20.gadsimtam
 ---------------------
 
 #### 1. Kādas sekas bija krustnešu iebrukumam Latvijas teritorijā 13.gadsimtā?
-> Krusta kara laikā izveidojās Livonija
-
-> notika Latvijas teritorijā dzīvojošo tautu saliedēšana
-
-> tika ieviesta kristietība
-
-> tika veicināta tirdzniecība ar Eiropas valstīm.
+> Krusta kara laikā izveidojās Livonija, notika Latvijas teritorijā dzīvojošo tautu saliedēšana, tika ieviesta kristietība, tika veicināta tirdzniecība ar Eiropas valstīm.
 
 #### 2. Kāda bija Livonijas laikmeta ietekme Latvijas vēsturē?
-> Sākās atsevišķo Latvijas teritorijā dzīvojošo tautību konsolidācija vienotā nācijā.
-
-> Tuvināšanas posms Eiropas saimniecībai un kultūrai.
+> Sākās atsevišķo Latvijas teritorijā dzīvojošo tautību konsolidācija vienotā nācijā. Tuvināšanas posms Eiropas saimniecībai un kultūrai.
 
 #### 3. Kuru valstu pakļautībā 16. – 19. gadsimtā bija vismaz daļa Latvijas teritorijas?
 > Polijas – Lietuvas, Krievijas, Zviedrijas pakļautībā
 
 #### 4. Kādi bija Krievijas impērijas mērķi cīņā par Latvijas teritoriju 18.gs.?
-> ???
+> (?) Pieieja Baltijas jūrai
 
 #### 5. Kurā gadsimtā sāka darboties pirmās latviešu skolas?
 > 16. gadsimta otrajā pusē
