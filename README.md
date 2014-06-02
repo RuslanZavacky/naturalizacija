@@ -48,7 +48,7 @@ Latvijas ģeogrāfija
 ---------------------
 
 #### 1. Ar kurām valstīm Latvijai ir gan sauszemes, gan jūras robeža?
-> ???
+> Ar Lietuvu, Igauniju, Baltkrieviju, Krieviju, Zviedriju
 
 #### 2. Ar kurām valstīm Latvijai ir sauszemes robeža?
 > Ar Lietuvu, Igauniju, Baltkrieviju, Krieviju
@@ -57,10 +57,10 @@ Latvijas ģeogrāfija
 > Liepājā un Ventspilī
 
 #### 4. (*) Kuras ir lielākās upes Latvijā?
-> ???
+> Daugava, Lielupe, Gauja, Venta
 
 #### 5. Kura ir Latvijas augstākā virsotne?
-> ???
+> Gaiziņkalns
 
 #### 6. Kā Latvijas ģeogrāfiskais stāvoklis ietekmē Latvijas ekonomisko attīstību?
 > Izdevīgs tranzītam un zvejniecībai
@@ -75,7 +75,7 @@ Latvijas iedzīvotāji
 > ~2 milj.
 
 #### 2. Kādi apstākļi šobrīd nosaka Latvijas iedzīvotāju skaita samazināšanos?
-> ???
+> Emigrācija
 
 #### 3. Kuras ir Latvijas pamattautas?
 > Kurši, zemgaļi, latgaļi, sēļi, lībieši
