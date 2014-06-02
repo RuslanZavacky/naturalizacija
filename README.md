@@ -381,10 +381,10 @@ Latvijas Republikas Satversme
 > Uz četriem gadiem.
 
 #### 9. Kas vada Saeimas sēdes?
-> ???
+> Saeimas priekšsēdētājs
 
 #### 10. Kāds tiesību akts nosaka Saeimas iekšējo kārtību un darbību?
-> ???
+> (?) Saeimas kārtības rullis
 
 #### 11. (*) Kas ievēlē Valsts prezidentu?
 > Saeima.
@@ -418,13 +418,13 @@ Latvijas Republikas Satversme
 > 2. ja attiecīgais jautājums ar likumu vai noteikumiem nav noregulēts.
 
 #### 19. Kas var iesniegt Saeimai likumprojektus?
-> ???
+> Valsts prezidents, Ministru kabinets un Saeimas komisijas, Saeimas deputāti, Latvijas pilsoņi
 
 #### 20. Kuri likumi nevar tikt nodoti tautas nobalsošanai?
-> ???
+> Budžets un likumi par aizņēmumiem, nodokļiem, muitām, dzelzceļa tarifiem, kara klausību, kara pasludināšanu un uzsākšanu, miera noslēgšanu, izņēmuma stāvokļa izsludināšanu un tā izbeigšanu, mobilizāciju un demobilizāciju, kā arī līgumus ar ārvalstīm
 
 #### 21. (*) Kas apstiprina tiesnešus amatā?
-> ???
+> Saeima
 
 #### 22. Kādos gadījumos ir nepieciešama tautas nobalsošana?
 > Satversmes 1.,2.,3.,4.,6. un 77.panta grozīsanas gadījumā. Ja valsts prezidents ierosina atlaist Saeimu. Tiek apturēta likuma publicēšana un nobalsošanu pieprasa 1/10 daļa vēlētāju.
@@ -477,7 +477,7 @@ Latvijas Republikas Satversme
 #### 38. (*) Kura izglītība Latvijā ir obligāta?
 > Pamatizglītība. 9 klases.
 
-Latvijas Republikas Satversme
+Vecie jautājumi
 ---------------------
 
 #### 1. Kurā starptautiskajā organizācijā Latvija darbojās no 1921.gada līdz 1940.gadam?
