@@ -47,16 +47,25 @@ Simbolika
 Latvijas ģeogrāfija
 ---------------------
 
-#### 1. Ar kurām valstīm Latvijai ir sauszemes robeža?
-> Ar Lietuvu, Igauniju, Baltkrieviju, Krieviju
+#### 1. Ar kurām valstīm Latvijai ir gan sauszemes, gan jūras robeža?
+> ???
 
-#### 2. Kā Latvijas ģeogrāfiskais stāvoklis ietekmē Latvijas ekonomisko attīstību?
-> Izdevīgs tranzītam un zvejniecībai
+#### 2. Ar kurām valstīm Latvijai ir sauszemes robeža?
+> Ar Lietuvu, Igauniju, Baltkrieviju, Krieviju
 
 #### 3. Kurās Latvijas pilsētās atrodas neaizsalstošās jūras ostas?
 > Liepājā un Ventspilī
 
-#### 4. Kuri ir Latvijas kultūrvēsturiskie apgabali?
+#### 4. (*) Kuras ir lielākās upes Latvijā?
+> ???
+
+#### 5. Kura ir Latvijas augstākā virsotne?
+> ???
+
+#### 6. Kā Latvijas ģeogrāfiskais stāvoklis ietekmē Latvijas ekonomisko attīstību?
+> Izdevīgs tranzītam un zvejniecībai
+
+#### 7. Kuri ir Latvijas kultūrvēsturiskie apgabali?
 > Kurzeme, Zemgale, Vidzeme, Latgale
 
 Latvijas iedzīvotāji
@@ -65,13 +74,16 @@ Latvijas iedzīvotāji
 #### 1. Kāds ir aptuvenais Latvijas iedzīvotāju skaits?
 > ~2 milj.
 
-#### 2. Kuras ir Latvijas pamattautas?
+#### 2. Kādi apstākļi šobrīd nosaka Latvijas iedzīvotāju skaita samazināšanos?
+> ???
+
+#### 3. Kuras ir Latvijas pamattautas?
 > Kurši, zemgaļi, latgaļi, sēļi, lībieši
 
-#### 3. Kuras ir lielākās nacionālās minoritātes (mazākumtautības) Latvijā?
+#### 4. Kuras ir lielākās nacionālās minoritātes (mazākumtautības) Latvijā?
 > Krievi, baltkrievi, ukraiņi
 
-#### 4. Kā padomju okupācijas gados izmainījās laviešu īpatsvars Latvijas iedzīvotāju vidū?
+#### 5. Kā padomju okupācijas gados izmainījās laviešu īpatsvars Latvijas iedzīvotāju vidū?
 > Samazinājās
 
 Latvijas vēsture līdz 20.gadsimtam
@@ -94,16 +106,25 @@ Latvijas vēsture līdz 20.gadsimtam
 #### 3. Kuru valstu pakļautībā 16. – 19. gadsimtā bija vismaz daļa Latvijas teritorijas?
 > Polijas – Lietuvas, Krievijas, Zviedrijas pakļautībā
 
-#### 4. Kas sekmēja ekonomisko attīstību Latvijā 19.gs. beigās?
+#### 4. Kādi bija Krievijas impērijas mērķi cīņā par Latvijas teritoriju 18.gs.?
+> ???
+
+#### 5. Kurā gadsimtā sāka darboties pirmās latviešu skolas?
+> ???
+
+#### 6. Kāpēc Latvijas vēsturē nozīmīgs ir vācu publicista Garlība Merķeļa darbs "Latvieši"?
+> ???
+
+#### 7. Kādi apstākļi sekmēja ekonomisko attīstību Latvijā 19.gs. beigās?
 > Dzimtbūšanas atcelšana.
 
-#### 5. Kāda bija Krievijas impērijas īstenotā nacionālā politika Latvijas teritorijā 19.gs. beigās?
+#### 8. Kāda bija Krievijas impērijas īstenotā nacionālā politika Latvijas teritorijā 19.gs. beigās?
 > Baltijā sākas rusifikācija politika.
 
-#### 6. Kas raksturo saimnieciskās attīstības līmeni Latvijas teritorijā 19.gs. beigās?
+#### 9. Kas raksturo saimnieciskās attīstības līmeni Latvijas teritorijā 19.gs. beigās?
 > Lauksaimniecība, zvejniecība.
 
-#### 7. (*) Kura kustība  aizsāka latviešu tautas nacionālo atmodu 19.gs. vidū?
+#### 10. (*) Kura kustība  aizsāka latviešu tautas nacionālo atmodu 19.gs. vidū?
 > Ar jaunlatviešu kustību. (Juris Alunāns, Krišjānis Valdemārs, Atis Kronvalds)
 
 Jaunāko laiku Latvijas vēsture
@@ -131,26 +152,26 @@ Jaunāko laiku Latvijas vēsture
 
 > 1917.gadā Ziemassvētku kaujas (Rīgas aizstāvēšana).
 
-#### 5. (*) Kad tika pasludināta neatkarīgā Latvijas valsts?
+#### 5. Kāds nozīmīgs notikums pasaulē 1918.gadā veicināja neatkarīgas Latvijas valsts izveidošanos?
+> ???
+
+#### 6. (*) Kad tika pasludināta neatkarīgā Latvijas valsts?
 > 1918.gada 18. novembris
 
-#### 6. Kuram valsts darbiniekam ir vislielākie nopelni Latvijas diplomātiskās atzīšanas panākšanā 20.gadsimta sākumā?
+#### 7. Kuram valsts darbiniekam ir vislielākie nopelni Latvijas diplomātiskās atzīšanas panākšanā 20.gadsimta sākumā?
 > Zigfridam Meierovicam.
 
-#### 7. Ko izcīnīja Latvijas tauta laikā no 1918. - 1920. gadam?
+#### 8. Ko izcīnīja Latvijas tauta laikā no 1918. - 1920. gadam?
 > Neatkarību.
 
-#### 8. Kurš bija pirmais Latvijas armijas virspavēlnieks?
+#### 9. (*) Kurš bija Latvijas nacionālās armijas pirmais komandieris (vārds, uzvārds)?
 > Oskars Kalpaks.
 
-#### 9. Kāpēc 11. novembrī Latvijā tiek atzīmēta Lāčplēša diena?
+#### 10. Kāpēc 11. novembrī Latvijā tiek atzīmēta Lāčplēša diena?
 > Šajā dienā Latvijas armija izcīnīja nozīmīgo uzvaru brīvības cīņās. 1919.gada 11.novembrī atbrīvoja Pārdaugavu no bermontiešiem.
 
-#### 10. Kāpēc Latvijai ir nozīmīgs 1920.gada miera līgums ar Padomju Krieviju?
+#### 11. Kāpēc Latvijai ir nozīmīgs 1920.gada miera līgums ar Padomju Krieviju?
 > Padomju Krievija atzina Latvijas neatkarību.
-
-#### 11. Kurā starptautiskajā organizācijā Latvija darbojās no 1921.gada līdz 1940.gadam?
-> Tautu savienībā.
 
 #### 12. (*) Kurš bija pirmais demokrātiski ievēlētais Latvijas Valsts prezidents?
 > Jānis Čakste
@@ -158,8 +179,8 @@ Jaunāko laiku Latvijas vēsture
 #### 13. Kas un kad pieņēma Latvijas Republikas Satversmi?
 > Satversmes sapulce 1922.gada 15.februārī.
 
-#### 14. Kāpēc bija nozīmīgs 20.gs. 20.gadu sākumā īstenotā agrārā reforma?
-> Sekmēja ražošanas attīstību. Samazinājās bezzemnieku skaits.
+#### 14. Kādi apstākļi veicināja lauksaimniecības un rūpniecības attīstību 10.gs. 20.gadu sākumā?
+> ???
 
 #### 15. Kāds politiskais režīms bija Latvijā laikā no 1920. - 1934.gadam?
 > Parlamentārā demokrātiskā republika.
@@ -167,35 +188,35 @@ Jaunāko laiku Latvijas vēsture
 #### 16. Ar ko Latvijas vēsturē ir zīmīgs 1934.gada 15.maijs?
 > Antikonstitucionālais valsts apvērsums
 
-#### 17. Kāda bija K. Ulmaņa režīma attieksme pret politiskajām partijām pēc 1934.gada 15.maija?
+#### 17. Kāds politiskais režīms bija Latvijā laikā no 1934.-1940. gadam?
+> ???
+
+#### 18. Kāda bija K. Ulmaņa režīma attieksme pret politiskajām partijām pēc 1934.gada 15.maija?
 > Visu partiju darbība tika pārtraukta
 
-#### 18. (*) Kā sauc pieminekli, kuru par tautas saziedotajiem līdzekļiem atklāja 1935. gadā Rīgā?
+#### 19. (*) Kā sauc pieminekli, kuru par tautas saziedotajiem līdzekļiem atklāja 1935. gadā Rīgā?
 > Brīvības pieminekli
 
-#### 19. Kādas sekas Latvijai bija Molotova – Ribentropa 1939.gada 23.augusta līgumam?
+#### 20. Kādas sekas Latvijai bija Molotova – Ribentropa 1939.gada 23.augusta līgumam?
 > Latvija zaudēja neatkarību
 
-#### 20. Kas notika Latvijā 1940.gada 17.jūnijā?
+#### 21. Kas notika Latvijā 1940.gada 17.jūnijā?
 > Padomju Krievijas armija iegāja Latvijas teritorijā. Sākās Latvijas okupācija
 
-#### 21. Kāpēc 14. jūnijs ir atceres diena Latvijā?
+#### 22. Kāpēc 14. jūnijs ir atceres diena Latvijā?
 > Pirmā Latvijas iedzīvotāju deportācija uz Sibiriju
 
-#### 22. Kas notika ar Latvijas vācbaltu (Baltijas vāciešu) mazākumtautību laikā no 1939. gada līdz 1941.gadam?
+#### 23. Kas notika ar Latvijas vācbaltu (Baltijas vāciešu) mazākumtautību laikā no 1939. gada līdz 1941.gadam?
 > Repatriācija Vācijā
 
-#### 23. Kāda bija nacistiskās Vācijas attieksme pret Latvijas valsts neatkarību (1941 - 1945)?
+#### 24. Kāda bija nacistiskās Vācijas attieksme pret Latvijas valsts neatkarību (1941 - 1945)?
 > Negatīva, noliedzoša.
 
-#### 24. Kas notika ar Latvijas ebrejiem un čigāniem Otrā pasaules kara laikā?
+#### 25. Kas notika ar Latvijas ebrejiem un čigāniem Otrā pasaules kara laikā?
 > Tika iznīcināti
 
-#### 25. Kuru valstu armijās cīnījās latviešu karavīri Otrajā pasaules karā?
+#### 26. Kuru valstu armijās cīnījās latviešu karavīri Otrajā pasaules karā?
 > Gan vācu, gan padomju armijās.
-
-#### 26. Kas Latvijas teritorijā pēc Otrā pasaules kara cīnījās pret padomju okupāciju?
-> Leģionāri un "meža brāļi".
 
 #### 27. Kas notika ar lielo Latvijas iedzīvotāju daļu Otrā pasaules kara beigās?
 > Emigrēja uz ārzemēm.
@@ -245,30 +266,83 @@ Kultūra un latviešu tautas tradīcijas
 #### 1. Kādu kultūras mantojumu latviešu tauta ir saglabājusi gadsimtu gaitā?
 > Rīgas vēsturiskais centrs. 1525.gadā (16.gadsimta) bija izdoti pirmās grāmatas latviešu valoda.
 
-#### 2. Kāpēc Rīgas vēsturiskais centrs ir atzīts par pasaules nozīmes kultūras mantojumu?
+#### 2. Kādu folkloras žanru latvieši ir saglabājuši un izmantojuši gadsimtu gaitā?
+> ???
+
+#### 3. Kuri latviešu tautas materiālās kultūras žanri ir saglabājuši būtisku nozīmi līdz mūsdienām?
+> ???
+
+#### 4. Ar ko latviešu kultūrā ir nozīmīgs 19.gadsimts?
+> ???
+
+#### 5. Kāpēc Rīgas vēsturiskais centrs ir atzīts par pasaules nozīmes kultūras mantojumu?
 > Pateicoties _Jūgendstila pērlei_
 
-#### 3. Kāpēc latviešu kultūrā ir nozīmīgs Krišjānis Barons?
+#### 6. Kura ir nozīmīgākā F.B.Rastrelli projektētā baroka celtne Latvijā?
+> ???
+
+#### 7. Kāpēc latviešu kultūrā ir nozīmīgs Krišjānis Barons?
 > Bija viens no Latvijas "pirmās atmodas" galveniem ideologiem. 1894.gada Krišjānis Barons sistematizēja un izdota tautasdziesmu grāmatu: „Latviju Dainu”
 
-#### 4. (*) Kāda nozīmīga Latvijas kultūras dzīves tradīcija aizsākās Rīgā 1873. gadā?
+#### 8. (*) Kāda nozīmīga Latvijas kultūras dzīves tradīcija aizsākās Rīgā 1873. gadā?
 > Pirmie vispārējie latviešu dziesmu svētki.
 
-#### 5. Kā sauc latviešu tautas eposu?
+#### 9. (*) Kā sauc latviešu tautas eposu?
 > "Lāčplēsis"
 
-#### 6. (*) Kurš ir Brīvības pieminekļa un Brāļu kapu memoriāla autors?
-> Kārlis Zāle
-
-#### 7. Kāpēc latviešu kultūrā ir nozīmīgs Rainis?
+#### 10. Kāpēc latviešu kultūrā ir nozīmīgs Rainis?
 > Dzejas un dramaturģija sasniedz filozofiskus augstumus
 
-#### 8. Kādus tradicionālus svētkus svin Latvijā?
+#### 11. Kāpēc latviešu kultūrā nozīmīgs ir Rūdolfs Blaumanis?
+> ???
+
+#### 12. Kuri ir latviešu glezniecības vecmeistari?
+> ???
+
+#### 13. Ar ko ievērojams latviešu teātra mākslas attīstībā ir Ādolfs Alunāns?
+> ???
+
+#### 14. Kuriem režisoriem ir nozīmīga loma latviešu teātra mākslas attīstībā laikā no 20.gs. 20. līdz 60. gadiem?
+> ???
+
+#### 15. Ar ko ievērojams latviešu mākslas attīstībā ir Vilhelms Purvītis?
+> ???
+
+#### 16. Ar ko ievērojams latviešu kultūrā ir Jāzeps Vītols?
+> ???
+
+#### 17. (*) Kurš ir Brīvības pieminekļa un Brāļu kapu memoriāla autors?
+> Kārlis Zāle
+
+#### 18. Kas raksturīgs latviešu kultūras attīstībai pēc Otrā pasaules kara?
+> ???
+
+#### 19. Kādi apstākļi traucēja kultūras attīstību Latvijā padomju varas gados?
+> ???
+
+#### 20. Kāpēc latviešu kultūrā ir nozīmīgi Ojārs Vācietis un Imants Ziedonis?
+> ???
+
+#### 21. Ar ko ievērojami latviešu kultūrā ir Raimonds Pauls un Imants Ziedonis?
+> ???
+
+#### 22. Kuri ir nozīmīgākie klasiskās mūzikas dzīves centri Latvijā?
+> ???
+
+#### 23. Kuras nozīmīgas vēsturiskas ēkas Rīgā tika atjaunotas pēc neatkarības atgūšanas?
+> ???
+
+#### 24. Kuri kultūras darbinieki/kolektīvi pēc neatkarības atjaunošanas ir ieguvuši augstu atzinību ārpus Latvijas robežām?
+> ???
+
+#### 25. Kādus tradicionālus svētkus svin Latvijā?
 > Metenis, Lieldienas, Usinš, Jāņa diena, Māras diena, Miķeli, Mārtiņu, Ziemassvētki.
 
+#### 26. (*) Kurus gadskārtu svētkus Latvijā svin jūnijā?
+> ???
 
-#### 9. Kas raksturīgs Jāņu (Līgosvētku) svinēšanai Latvijā?
-> Jāņuguns kurināšana, "līgo" dziesmu dziedāšana, dejošana, alu dzeršana un siera ēšana.
+#### 27. Kas raksturīgs Jāņu (Līgosvētku), Lieldienu un Ziemassvētku svinēšanai Latvijā?
+> ??? (Jāņuguns kurināšana, "līgo" dziesmu dziedāšana, dejošana, alu dzeršana un siera ēšana.)
 
 Reliģija
 ---------------------
@@ -276,10 +350,7 @@ Reliģija
 #### 1. Kuras ir trīs lielākās reliģiskās konfesijas Latvijā?
 > Katolicisms, Ļuteranisms, Pareizticība
 
-#### 2. (*) Kurā Latvijas kultūrvēsturiskajā apgabalā tradicionālā relīģija ir katolicisms?
-> Latgalē
-
-#### 3. Kas raksturo valsts un baznīcas attiecības mūsdienu Latvijā?
+#### 2. Kas raksturo valsts un baznīcas attiecības mūsdienu Latvijā?
 > Baznīca ir atdalīta no valsts; ticības tolerance un ticības brīvība.
 
 Latvijas Republikas Satversme
@@ -300,7 +371,7 @@ Latvijas Republikas Satversme
 #### 5. Kā ievēlē Saeimu?
 > Latvijas pilsoņi vispārīgās , vienlīdzīgās, tiešās, aizklātās un proporcionālās vēlēšanās.
 
-#### 6. No cik gadu vecuma pilsoņi iegūst tiesības vēlēt Saeimu?
+#### 6. (*) No cik gadu vecuma pilsoņi iegūst tiesības vēlēt Saeimu?
 > No 18 gadu vecuma
 
 #### 7. (*) No cik gadu vecuma pilsoņi var tikt ievēlēti Saeimā?
@@ -309,28 +380,34 @@ Latvijas Republikas Satversme
 #### 8. (*) Uz cik gadiem Latvijas pilsoņi ievēl Saeimu?
 > Uz četriem gadiem.
 
-#### 9. (*) Kas ievēlē Valsts prezidentu?
+#### 9. Kas vada Saeimas sēdes?
+> ???
+
+#### 10. Kāds tiesību akts nosaka Saeimas iekšējo kārtību un darbību?
+> ???
+
+#### 11. (*) Kas ievēlē Valsts prezidentu?
 > Saeima.
 
-#### 10. Uz cik gadiem tiek ievēlēts Valsts prezidents?
+#### 12. Uz cik gadiem tiek ievēlēts Valsts prezidents?
 > Uz četriem gadiem.
 
-#### 11. (*) Cik termiņus pēc kārtas viena un tā pati persona var būt Valsts prezidents?
+#### 13. (*) Cik termiņus pēc kārtas viena un tā pati persona var būt Valsts prezidents?
 > 2 termiņus pēc kārtas
 
-#### 12. Kādas ir Valsts prezidenta sešas pamatpilnvaras?
+#### 14. Kādas ir Valsts prezidenta sešas pamatpilnvaras?
 > Reprezentēt valsti starptautiski. Ir valsts bruņoto spēku augstākais vadonis. Ierosināt Saiemas atlaišanu. Izvēlēties amatpersonu, kurai jāsastāda Ministru Kabinets. Sasaukt ārkārtējās valdības sēdes. Izsludināt likumus.
 
-#### 13. (*) Kam Latvijā pieder augstākā izpidvara?
+#### 15. (*) Kam Latvijā pieder augstākā izpidvara?
 > Ministru kabinetam.
 
-#### 14. Kas izveido Ministru kabinetu (valdību)?
+#### 16. Kas izveido Ministru kabinetu (valdību)?
 > Persona, kurai šo misiju uztic Latvijas valsts prezidents.
 
-#### 15. Kādos gadījumos Ministru kabinetam (valdībai) ir jāatkāpjas?
+#### 17. Kādos gadījumos Ministru kabinetam (valdībai) ir jāatkāpjas?
 > Ja Saeima izsaka neuzticību Ministru prezidentam un Ministru kabinetam kopumā. Ja Saeima neapstiprina budžetu. Ja beidzās termiņš.
 
-#### 16. Kādas ir Ministru kabineta (valdības) pamatpilnvaras?
+#### 18. Kādas ir Ministru kabineta (valdības) pamatpilnvaras?
 > Ministru kabinetam pieder likumu ierosināšanas tiesības un tiesības iecelt vai apstiprināt amatos daļu civildienesta ierēdņu.
 > Ministru kabinets var izdot normatīvus aktus - noteikumus šādos gadījumos:
 > 1. ja likumā noteiktas īpašas pilnvaras jeb deleģējums Ministru kabinetam;
@@ -340,67 +417,91 @@ Latvijas Republikas Satversme
 > 1. ja likums vai noteikumi Ministru kabinetu vai atsevišķu ministru tam īpaši pilnvaro;
 > 2. ja attiecīgais jautājums ar likumu vai noteikumiem nav noregulēts.
 
-#### 17. Kā Latvijas pilsoņi var piedalīties likumprojektu iesniegšanā Saeimā?
-> 10 000 iedzīvotāju var iesniegt Centrālajā vēlēšanu komisijā (CVK ) likumprojektu vai tiek savākti 10% vēlētāju parakstu izsludinātam CVK likumprojektam.
+#### 19. Kas var iesniegt Saeimai likumprojektus?
+> ???
 
-#### 18. Kādos gadījumos ir nepieciešama tautas nobalsošana?
+#### 20. Kuri likumi nevar tikt nodoti tautas nobalsošanai?
+> ???
+
+#### 21. (*) Kas apstiprina tiesnešus amatā?
+> ???
+
+#### 22. Kādos gadījumos ir nepieciešama tautas nobalsošana?
 > Satversmes 1.,2.,3.,4.,6. un 77.panta grozīsanas gadījumā. Ja valsts prezidents ierosina atlaist Saeimu. Tiek apturēta likuma publicēšana un nobalsošanu pieprasa 1/10 daļa vēlētāju.
 
-#### 19. (*) Kas apstiprina Latvijas valsts budžetu?
+#### 23. (*) Kas apstiprina Latvijas valsts budžetu?
 > Saeima.
 
-#### 20. Kam ir tiesības atzīt likumus un citus normatīvos aktus par spēkā neesošajiem?
+#### 24. Kam ir tiesības atzīt likumus un citus normatīvos aktus par spēkā neesošajiem?
 > Satversmes tiesai.
 
-#### 21. (*) Kādā veidā persona var aizstāvēt savas tiesības un likumiskās intereses?
-> Tiesā
-
-#### 22. Kam ir tiesības uz advokāta palīdzību?
+#### 25. Kam ir tiesības uz advokāta palīdzību?
 > Ikvienam.
 
-#### 23. (*) Kas aizsargā personas tiesības un dzīvību?
-> Konstitucionālais likums „Cilvēka un pilsoņa tiesības un pienākumi”.
-
-#### 24. Kādā gadījumā drīkst atņemt vai ierobežot personas brīvību?
+#### 26. Kādā gadījumā drīkst atņemt vai ierobežot personas brīvību?
 > Ja ir tiesas spriedums.
 
-#### 25. Kas aizsargā cilvēka godu un cieņu?
+#### 27. Kas aizsargā cilvēka godu un cieņu?
 > Valsts.
 
-#### 26. Kam ir tiesības brīvi pārvietoties un izvēlēties dzīvesvietu Latvijas teritorijā?
+#### 28. Kam ir tiesības brīvi pārvietoties un izvēlēties dzīvesvietu Latvijas teritorijā?
 > Visiem pilsoņiem un Latvijas pastāvīgajiem iedzīvotājiem.
 
-#### 27. Kam ir tiesības brīvi atgriezties Latvijā?
+#### 29. Kam ir tiesības brīvi atgriezties Latvijā?
 > Visiem pilsoņiem un pastāvīgajiem Latvijas iedzīvotājiem.
 
-#### 28. Kādas tiesības ietver vārda brīvība?
-> Tiesības paust jebkurus uzskatus, aicinājumus, iegūt un izplatīt informāciju. Cenzūras aizliegums.
-
-#### 29. Kam ir tiesības piedalīties pašvaldības vēlēšanās?
+#### 30. Kam ir tiesības piedalīties pašvaldības vēlēšanās?
 > Latvijas pilsoņiem un ikvienam Eiropas Savienības pilsonim, kurš pastāvīgi uzturas Latvijā.
 
-#### 30. (*) Kam ir tiesības Latvijā apvienoties sabiedriskajās organizācijās un politiskajās partijās?
+#### 31. (*) Kam ir tiesības Latvijā apvienoties sabiedriskajās organizācijās un politiskajās partijās?
 > Ikvienam Latvijas iedzīvotājam.
 
-#### 31. Kādos gadījumos valsts aizsargā sapulču, gājienu, mītiņu un piketu brīvību?
+#### 32. Kādos gadījumos valsts aizsargā sapulču, gājienu, mītiņu un piketu brīvību?
 > Ieprikš pieteiktus miermīlīgus piketus, sapulces, mītiņus un gājienus.
 
-#### 32. (*) Kam ir tiesības pildīt valsts dienestu?
+#### 33. (*) Kas aizsargā arodbiedrību brīvību Latvijā?
 > Latvijas pilsoņiem
 
-#### 33. Kādu atbildi uz iesniegumu personai ir tiesības saņemt no valsts un pašvaldību iestādēm?
+#### 34. (*) Kam ir tiesības pildīt valsts dienestu?
+> Latvijas pilsoņiem
+
+#### 35. Kādu atbildi uz iesniegumu personai ir tiesības saņemt no valsts un pašvaldību iestādēm?
 > Ikvienam ir tiesības saņemt atbildi pēc būtības latviešu valodā.
 
-#### 34. Kā persona drīkst izmantot savu īpašumu?
+#### 36. Kā persona drīkst izmantot savu īpašumu?
 > Pārdot, mainīt, izīrēt saskaņā ar LR likumiem un aizliegts izmantot pretēji sabiedriskajām interesēm.
 
-#### 35. Kāda ir valsts loma mediciniskās palīdzības nodrošināšanā?
+#### 37. Kāda ir valsts loma mediciniskās palīdzības nodrošināšanā?
 > 37.pants garantē tiesības uz medicīnisko aprūpi un garantē medicīniskās palīdzības minimumu.
 
-#### 36. (*) Kura izglītība Latvijā ir obligāta?
+#### 38. (*) Kura izglītība Latvijā ir obligāta?
 > Pamatizglītība. 9 klases.
 
-#### 37. Kādā gadījumā var ierobežot personas tiesības?
+Latvijas Republikas Satversme
+---------------------
+
+#### 1. Kurā starptautiskajā organizācijā Latvija darbojās no 1921.gada līdz 1940.gadam?
+> Tautu savienībā.
+
+#### 2. Kas Latvijas teritorijā pēc Otrā pasaules kara cīnījās pret padomju okupāciju?
+> Leģionāri un "meža brāļi".
+
+#### 3. (*) Kurā Latvijas kultūrvēsturiskajā apgabalā tradicionālā relīģija ir katolicisms?
+> Latgalē
+
+#### 4. Kā Latvijas pilsoņi var piedalīties likumprojektu iesniegšanā Saeimā?
+> 10 000 iedzīvotāju var iesniegt Centrālajā vēlēšanu komisijā (CVK ) likumprojektu vai tiek savākti 10% vēlētāju parakstu izsludinātam CVK likumprojektam.
+
+#### 5. (*) Kādā veidā persona var aizstāvēt savas tiesības un likumiskās intereses?
+> Tiesā
+
+#### 6. (*) Kas aizsargā personas tiesības un dzīvību?
+> Konstitucionālais likums „Cilvēka un pilsoņa tiesības un pienākumi”.
+
+#### 7. Kādas tiesības ietver vārda brīvība?
+> Tiesības paust jebkurus uzskatus, aicinājumus, iegūt un izplatīt informāciju. Cenzūras aizliegums.
+
+#### 8. Kādā gadījumā var ierobežot personas tiesības?
 > Ja ir tiesas spriedums.
 
 Mutvārdu pārbaudes jautājumi
