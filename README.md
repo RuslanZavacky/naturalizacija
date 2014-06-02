@@ -315,26 +315,28 @@ Kultūra un latviešu tautas tradīcijas
 #### 20. Kāpēc latviešu kultūrā ir nozīmīgi Ojārs Vācietis un Imants Ziedonis?
 > ???
 
-#### 21. Ar ko ievērojami latviešu kultūrā ir Raimonds Pauls un Imants Ziedonis?
+#### 21. Ar ko ievērojami latviešu kultūrā ir Raimonds Pauls un Imants Kalniņš?
 > ???
 
 #### 22. Kuri ir nozīmīgākie klasiskās mūzikas dzīves centri Latvijā?
-> ???
+> Mazā un Lielā ģilde, arī Vecrīgas baznīcas, Vāgnera zāle un Melngalvju nams
 
 #### 23. Kuras nozīmīgas vēsturiskas ēkas Rīgā tika atjaunotas pēc neatkarības atgūšanas?
-> ???
+> Melngalvju nams, Rīgas Doms, Latvijas Nacionālais mākslas muzejs
 
 #### 24. Kuri kultūras darbinieki/kolektīvi pēc neatkarības atjaunošanas ir ieguvuši augstu atzinību ārpus Latvijas robežām?
-> ???
+> Operdziedātāji Inese Galante, Inga Kalna, Sonora Vaice, Elīna Garanča, Egils Siliņš. Diriģents Mariss Jansons, komponists Pēteris Vasks, vijolnieks Gidons Krēmers ar kamerorķestri “Kremerata Baltica”, kori “Ave Sol”, “Kamēr...”, “Gaudeamus”. Brainstorm, Marija Naumova
 
 #### 25. Kādus tradicionālus svētkus svin Latvijā?
 > Metenis, Lieldienas, Usinš, Jāņa diena, Māras diena, Miķeli, Mārtiņu, Ziemassvētki.
 
 #### 26. (*) Kurus gadskārtu svētkus Latvijā svin jūnijā?
-> ???
+> Jāņi (Līgosvētki)
 
 #### 27. Kas raksturīgs Jāņu (Līgosvētku), Lieldienu un Ziemassvētku svinēšanai Latvijā?
-> ??? (Jāņuguns kurināšana, "līgo" dziesmu dziedāšana, dejošana, alu dzeršana un siera ēšana.)
+> Jāņuguns kurināšana, "līgo" dziesmu dziedāšana, dejošana, alu dzeršana un siera ēšana.
+> Olu krāsošana
+> Tradcionāli Ziemassvētku ēdieni ir zirņi un pupas. Jautraie masku gājieni
 
 Reliģija
 ---------------------
