@@ -145,7 +145,7 @@ Jaunāko laiku Latvijas vēsture
 > 1917.gadā Ziemassvētku kaujas (Rīgas aizstāvēšana).
 
 #### 5. Kāds nozīmīgs notikums pasaulē 1918.gadā veicināja neatkarīgas Latvijas valsts izveidošanos?
-> (?) Brestļitovskas miera līgums
+> Brestļitovskas miera līgums
 
 #### 6. (*) Kad tika pasludināta neatkarīgā Latvijas valsts?
 > 1918.gada 18. novembris
@@ -259,13 +259,13 @@ Kultūra un latviešu tautas tradīcijas
 > Rīgas vēsturiskais centrs. 1525.gadā (16.gadsimta) bija izdoti pirmās grāmatas latviešu valoda.
 
 #### 2. Kādu folkloras žanru latvieši ir saglabājuši un izmantojuši gadsimtu gaitā?
-> ???
+> Dainas
 
 #### 3. Kuri latviešu tautas materiālās kultūras žanri ir saglabājuši būtisku nozīmi līdz mūsdienām?
-> ???
+> Keramika, mūzikas instrumenti, dzintara izstrādājumi
 
 #### 4. Ar ko latviešu kultūrā ir nozīmīgs 19.gadsimts?
-> (?) Latviešu tautas atmoda
+> Latviešu tautas atmoda
 
 #### 5. Kāpēc Rīgas vēsturiskais centrs ir atzīts par pasaules nozīmes kultūras mantojumu?
 > Pateicoties _Jūgendstila pērlei_
@@ -286,10 +286,10 @@ Kultūra un latviešu tautas tradīcijas
 > Dzejas un dramaturģija sasniedz filozofiskus augstumus
 
 #### 11. Kāpēc latviešu kultūrā nozīmīgs ir Rūdolfs Blaumanis?
-> (?) Literatūras un teātra attīstība
+> Literatūras un teātra attīstība
 
 #### 12. Kuri ir latviešu glezniecības vecmeistari?
-> ??? 
+> Janis Rozentāls, Vilhelms Purvītis 
 
 #### 13. Ar ko ievērojams latviešu teātra mākslas attīstībā ir Ādolfs Alunāns?
 > Vadīja Rīgas Latviešu teātri, popularizēja teātra mākslu, nodibināja "Alunāna teātri" Jelgavā.
@@ -298,7 +298,7 @@ Kultūra un latviešu tautas tradīcijas
 > Eduards Smiļģis
 
 #### 15. Ar ko ievērojams latviešu mākslas attīstībā ir Vilhelms Purvītis?
-> (?) Viens no latviešu nacionālās glezniecības skolas aizsācējiem
+> Viens no latviešu nacionālās glezniecības skolas aizsācējiem
 
 #### 16. Ar ko ievērojams latviešu kultūrā ir Jāzeps Vītols?
 > Radījis daudz pazīstamu skaņdarbu balsij un klavierēm, simfonijas un kora balādes. Ar savu daiļradi viņš ir pacēlis līdz klasiskajam līmenim daudzus latviešu mūzikas žanrus un ar savu darbību strauji virzījis uz priekšu profesionālo mūziku Latvijā.
@@ -307,16 +307,16 @@ Kultūra un latviešu tautas tradīcijas
 > Kārlis Zāle
 
 #### 18. Kas raksturīgs latviešu kultūras attīstībai pēc Otrā pasaules kara?
-> ???
+> Dziesmusvētki, tautas tērpi, keramika
 
 #### 19. Kādi apstākļi traucēja kultūras attīstību Latvijā padomju varas gados?
-> ???
+> Cenzūra
 
 #### 20. Kāpēc latviešu kultūrā ir nozīmīgi Ojārs Vācietis un Imants Ziedonis?
-> ???
+> Dzejnieki
 
 #### 21. Ar ko ievērojami latviešu kultūrā ir Raimonds Pauls un Imants Kalniņš?
-> ???
+> Komponisti
 
 #### 22. Kuri ir nozīmīgākie klasiskās mūzikas dzīves centri Latvijā?
 > Mazā un Lielā ģilde, arī Vecrīgas baznīcas, Vāgnera zāle un Melngalvju nams
@@ -335,7 +335,9 @@ Kultūra un latviešu tautas tradīcijas
 
 #### 27. Kas raksturīgs Jāņu (Līgosvētku), Lieldienu un Ziemassvētku svinēšanai Latvijā?
 > Jāņuguns kurināšana, "līgo" dziesmu dziedāšana, dejošana, alu dzeršana un siera ēšana.
+
 > Olu krāsošana
+
 > Tradcionāli Ziemassvētku ēdieni ir zirņi un pupas. Jautraie masku gājieni
 
 Reliģija
@@ -378,7 +380,7 @@ Latvijas Republikas Satversme
 > Saeimas priekšsēdētājs
 
 #### 10. Kāds tiesību akts nosaka Saeimas iekšējo kārtību un darbību?
-> (?) Saeimas kārtības rullis
+> Saeimas kārtības rullis
 
 #### 11. (*) Kas ievēlē Valsts prezidentu?
 > Saeima.
