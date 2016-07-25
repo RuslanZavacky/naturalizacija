@@ -172,7 +172,7 @@ Jaunāko laiku Latvijas vēsture
 > Satversmes sapulce 1922.gada 15.februārī.
 
 #### 14. Kādi apstākļi veicināja lauksaimniecības un rūpniecības attīstību 20.gs. 20.gadu sākumā?
-> ???
+> Agrārā reforma
 
 #### 15. Kāds politiskais režīms bija Latvijā laikā no 1920. - 1934.gadam?
 > Parlamentārā demokrātiskā republika.
@@ -250,14 +250,13 @@ Jaunāko laiku Latvijas vēsture
 > Latvija kļūst par pilntiesīgu Eiropas Savienības dalībvalsti.
 
 #### 38. (*) Kurš ir pašreizējais Latvijas Valsts prezidents?
-> Andris Bērziņš.
+> Raimonds Vējonis.
 
 Kultūra un latviešu tautas tradīcijas
 ---------------------
 
 #### 1. Kādu kultūras mantojumu latviešu tauta ir saglabājusi gadsimtu gaitā?
-> Rīgas vēsturiskais centrs. 1525.gadā (16.gadsimta) bija izdoti pirmās grāmatas latviešu valoda.
-
+> Rīgas vēsturiskais centrs kur atrodas viduslaiku apbūve un jūgendstila celtnes. 1525.gadā (16.gadsimta) bija izdoti pirmās grāmatas latviešu valoda.
 #### 2. Kādu folkloras žanru latvieši ir saglabājuši un izmantojuši gadsimtu gaitā?
 > Dainas
 
@@ -283,7 +282,7 @@ Kultūra un latviešu tautas tradīcijas
 > "Lāčplēsis"
 
 #### 10. Kāpēc latviešu kultūrā ir nozīmīgs Rainis?
-> Dzejas un dramaturģija sasniedz filozofiskus augstumus
+> Rainis bija latviešu dzejnieks, dramaturgs, tulkotājs, teātra darbinieks, sociāldemokrātiskais žurnālists un politiķis. Būtiski ietekmēja literārās latviešu valodas attīstību. Viens no Jaunās strāvas kustības pārstāvjiem.
 
 #### 11. Kāpēc latviešu kultūrā nozīmīgs ir Rūdolfs Blaumanis?
 > Literatūras un teātra attīstība
@@ -295,7 +294,7 @@ Kultūra un latviešu tautas tradīcijas
 > Vadīja Rīgas Latviešu teātri, popularizēja teātra mākslu, nodibināja "Alunāna teātri" Jelgavā.
 
 #### 14. Kuriem režisoriem ir nozīmīga loma latviešu teātra mākslas attīstībā laikā no 20.gs. 20. līdz 60. gadiem?
-> Eduards Smiļģis
+> Eduards Smiļģis (Dailes teātris), Alfreds Amtmanis-Briedītis (Latvijas Nacionālā teātris)
 
 #### 15. Ar ko ievērojams latviešu mākslas attīstībā ir Vilhelms Purvītis?
 > Viens no latviešu nacionālās glezniecības skolas aizsācējiem
@@ -310,23 +309,24 @@ Kultūra un latviešu tautas tradīcijas
 > Dziesmusvētki, tautas tērpi, keramika
 
 #### 19. Kādi apstākļi traucēja kultūras attīstību Latvijā padomju varas gados?
-> Cenzūra
+> Cenzūra, Ideoloģisks dīktats un sociālistisko reālismu robežas.
 
 #### 20. Kāpēc latviešu kultūrā ir nozīmīgi Ojārs Vācietis un Imants Ziedonis?
-> Dzejnieki
+> Dzejnieki. Izcili Latviešu dzejnieki. Veicināja latviešu pašapziņas.
 
 #### 21. Ar ko ievērojami latviešu kultūrā ir Raimonds Pauls un Imants Kalniņš?
 > Komponisti
 
 #### 22. Kuri ir nozīmīgākie klasiskās mūzikas dzīves centri Latvijā?
 > Mazā un Lielā ģilde, arī Vecrīgas baznīcas, Vāgnera zāle un Melngalvju nams
+> Nacionālais operas teātris, Valsts Filharmonija, Doma baznīca, Valsts konservatorija
 
 #### 23. Kuras nozīmīgas vēsturiskas ēkas Rīgā tika atjaunotas pēc neatkarības atgūšanas?
 > Melngalvju nams, Rīgas Doms, Latvijas Nacionālais mākslas muzejs
 
 #### 24. Kuri kultūras darbinieki/kolektīvi pēc neatkarības atjaunošanas ir ieguvuši augstu atzinību ārpus Latvijas robežām?
-> Operdziedātāji Inese Galante, Inga Kalna, Sonora Vaice, Elīna Garanča, Egils Siliņš. Diriģents Mariss Jansons, komponists Pēteris Vasks, vijolnieks Gidons Krēmers ar kamerorķestri “Kremerata Baltica”, kori “Ave Sol”, “Kamēr...”, “Gaudeamus”. Brainstorm, Marija Naumova
-
+> Operdziedātāji Inese Galante, Inga Kalna, Sonora Vaice, Egils Siliņš. Diriģents Mariss Jansons, komponists Pēteris Vasks, vijolnieks Gidons Krēmers ar kamerorķestri “Kremerata Baltica”, kori “Ave Sol”, “Kamēr...”, “Gaudeamus”. Brainstorm, Marija Naumova
+Elīna Garanča (mecosoprāns), Inese Galante (soprāns) Marija Naumova, Prāta Vētra, Intars Busulis ...
 #### 25. Kādus tradicionālus svētkus svin Latvijā?
 > Metenis, Lieldienas, Usinš, Jāņa diena, Māras diena, Miķeli, Mārtiņu, Ziemassvētki.
 
@@ -394,7 +394,7 @@ Latvijas Republikas Satversme
 #### 14. Kādas ir Valsts prezidenta sešas pamatpilnvaras?
 > Reprezentēt valsti starptautiski. Ir valsts bruņoto spēku augstākais vadonis. Ierosināt Saiemas atlaišanu. Izvēlēties amatpersonu, kurai jāsastāda Ministru Kabinets. Sasaukt ārkārtējās valdības sēdes. Izsludināt likumus.
 
-#### 15. (*) Kam Latvijā pieder augstākā izpidvara?
+#### 15. (*) Kam Latvijā pieder augstākā izpildvara?
 > Ministru kabinetam.
 
 #### 16. Kas izveido Ministru kabinetu (valdību)?
