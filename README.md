@@ -787,3 +787,65 @@ Latvijas Republikas Satversme
 
 #### 16. Pilsoņa tiesības
 > ?????
+
+
+# Nozīmīgākie personi
+
+| Vards, uzvards |  |
+| --- | --- |
+| Kārlis Baumanis | Latvijas valsts himnas autors |
+| Garlībs Merķelis | Bija vācbaltiešu rakstnieks un publicists. Publiceja "Latvieši". Viens no spilgtākajiem apgaismības ideju pārstāvjiem Baltijā. Veicināja latviešu pašapzinās veidošanos |
+| Jānis Čakste | Bija pirmais Latvijas Valsts prezidents |
+| Kārlis Ulmanis | pirmais Latvijas Ministru prezidents, pēc 1934. gada 15. maija apvērsuma — Latvijas diktators |
+| Raimonds Vējonis | LR prezidents |
+| Krišjānis Barons | bija latviešu folklorists, rakstnieks un publicists. Viens no jaunlatviešu kustības pārstāvjiem. Pirmās atmodas ideologs. |
+| Rainis | bija latviešu dzejnieks, dramaturgs, tulkotājs, teātra darbinieks, sociāldemokrātiskais žurnālists un politiķis. Būtiski ietekmēja literārās latviešu valodas attīstību. |
+| Rūdolfs Blaumanis | bija latviešu prozaiķis, dramaturgs un žurnālists. |
+| Ādolfs Alunāns | bija latviešu aktieris, režisors un dramaturgs, tiek saukts par "latviešu teātra tēvu". Vadīja Rīgas Latviešu teātri, nodibināja teātri Jelgavā |
+| Eduards Smiļģis | bija latviešu teātra režisors un aktieris. Dibinājis un vadīja (20-60 gg.) Dailes teātri. |
+| Alfreds Amtmanis-Briedītis | bija latviešu teātra aktieris, režisors un skatuves mākslas pedagogs. Vadīja Latvijas Nacionālā teātris. (40-60 gg.) |
+| Jānis Rozentāls | glezniecības vecmeistars |
+| Vilhelms Purvītis | glezniecības vecmeistars |
+| Jāzeps Vītols | bija latviešu komponists un mūzikas pedagogs. |
+| Ojārs Vācietis | dzejnieks |
+| Imants Ziedonis | dzejnieks |
+| Raimonds Pauls | Komponists |
+| Imants Kalniņš | Komponists |
+| Kārlis Zāle | Brīvības pieminekļa un Brāļu kapu memoriāla autors |
+| Elīna Garanča | operdziedātāja, mecosoprāns |
+| Inese Galante | operdziedātāja, soprāns. |
+| Sonora Vaice | operdziedātāja, soprāns. |
+| Marija Naumova | dziedātāja |
+| Intars Busulis | mūziķis, dziedātājs un trombonists |
+| Ave Sol | koris |
+| Kāmer … | koris |
+| Gaudeamus | vīru koris |
+| Prāta Vētra |  |
+
+
+# Nozīmīgākie personi
+
+| Datums |  |
+| --- | --- |
+| 13. gs. | Krustnešu iebrukums |
+| 16 gs | pervaja shkola |
+| 19. gs. | Latviešu tauta atmoda |
+| 19. gs. beigums | Dzimtbūšanas atcelšana |
+| 1873 g. | Pirmie Vispārīgie latviešu Dziedāšanas svētki |
+| 1905 g. | Revolucija, tika pausta ideja par latviešu tautas brīvību. |
+| 1918 g. | Brestļitovskas miera līgums |
+| 18.11.1918 | Latvijas valsts pasludināšana (proklamēšana) |
+| 11.11.1919 | Bermontiāde: Latvijas armija pabeidza Pārdaugavas atbrīvošanu no Rietumkrievijas Brīvprātīgo armijas. Lāčplēša diena |
+| 1920. - 1937. gg | agrar reforma |
+| 15.05.1934 | Latvijā valsts apvērsums |
+| 1935 g. | brīvības piemineklis atklāšana |
+| 23.08.1939 | Molotova - Ribentropa līgums |
+| 17.06.1940 | Padomju armija iegāja Latvijas teritoria |
+| 14.06.1941 | Pirma deportacija Sibirijā |
+| 25.03.1949 | Otra deportacija Sibirijā |
+| 04.05.1990 | Latvijas Neatkarības deklarācija |
+| 20.01.1991 | barikāžu aiztavju atceres diena |
+| 21.08.1991 | LR Augstākā Padome pazinōja par Latvija neatkar'bas atjaunošanu pilnā apjomā |
+| 01.05.2004 | Eiropas Savieniba pievienošana |
+
+
