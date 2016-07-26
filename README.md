@@ -823,7 +823,7 @@ Latvijas Republikas Satversme
 | Prāta Vētra |  |
 
 
-# Nozīmīgākie personi
+# Nozīmīgākie datumi
 
 | Datums |  |
 | --- | --- |
@@ -836,7 +836,7 @@ Latvijas Republikas Satversme
 | 1918 g. | Brestļitovskas miera līgums |
 | 18.11.1918 | Latvijas valsts pasludināšana (proklamēšana) |
 | 11.11.1919 | Bermontiāde: Latvijas armija pabeidza Pārdaugavas atbrīvošanu no Rietumkrievijas Brīvprātīgo armijas. Lāčplēša diena |
-| 1920. - 1937. gg | agrar reforma |
+| 1920. - 1937. gg | Agrārā reforma |
 | 15.05.1934 | Latvijā valsts apvērsums |
 | 1935 g. | brīvības piemineklis atklāšana |
 | 23.08.1939 | Molotova - Ribentropa līgums |
