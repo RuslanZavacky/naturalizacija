@@ -5,14 +5,14 @@ Latvijas Himna
 ---------------------
 
 Dievs, svētī Latviju,<br>
-Mūs dārgo tēviju,<br>
+Mūs' dārgo tēviju,<br>
 Svētī jel Latviju,<br>
 Ak, svētī jel to!<br>
 
 Kur latvju meitas zied,<br>
 Kur latvju dēli dzied,<br>
 Laid mums tur laimē diet,<br>
-Mūs, Latvijā!
+Mūs' Latvijā!
 
 -----
 
